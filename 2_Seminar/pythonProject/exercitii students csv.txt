@@ -1,0 +1,19 @@
+# 0. Create an array of arrays from the given dataset [[..],[..]]
+
+#1. Problem: Read the CSV file and create a dictionary where 
+#the keys are student names and the values are tuples containing their age and average grade.
+
+
+
+# 2. Problem: Given the created dictionary, access the age and average grade of a specific student.
+
+# 3. Creating an Array from Dictionary Values 
+
+# 4. Problem: Filter the dictionary to only include students whose average grade is above a certain threshold.
+
+#5. Problem: Sort the dictionary by average grade in descending order.
+
+#6. Problem: Update the average grade of a specific student.
+
+#7. Problem: Group students by age and calculate the average grade for each age group.
+from collections import defaultdict
