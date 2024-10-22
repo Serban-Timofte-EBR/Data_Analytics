@@ -1,0 +1,5 @@
+#1. Creati clasa pe baza fisierului students.csv
+#2. cititi randurile din csv si creati un array de studenti ( metoda definita in clasa)
+#3. filtrati studentii in functie de varsta (varsta minima > 19)
+#4. calculati media notelor pentru toti studentii ( + std deviation, covarianta)
+#5. sortati studentii dupa nume
