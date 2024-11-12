@@ -311,11 +311,11 @@ def calcul_indice_disimilare_judete(population, dict_pop_judet):
 
     return dict_indice_disimilare
 
-dict_indici_disimilare = calcul_indice_disimilare_judete(population, dict_pop_judet)
-
-print("Indicii de disimilare pe județe:")
-for judet, indici in dict_indici_disimilare.items():
-    print(f"Județ: {judet}, Indicii: {indici}")
+# dict_indici_disimilare = calcul_indice_disimilare_judete(population, dict_pop_judet)
+#
+# print("Indicii de disimilare pe județe:")
+# for judet, indici in dict_indici_disimilare.items():
+#     print(f"Județ: {judet}, Indicii: {indici}")
 
 
 

@@ -1,0 +1,3182 @@
+Code,City,County
+1017,Municipiul Alba Iulia,ab
+1071,Ciugud,ab
+1151,Oras Abrud,ab
+1213,Municipiul Aiud,ab
+1348,Municipiul Blaj,ab
+1455,Oras Campeni,ab
+1696,Oras Cugir,ab
+1794,Oras Ocna Mures,ab
+1874,Municipiul Sebes,ab
+1936,Oras Zlatna,ab
+2130,Albac,ab
+2309,Almasu Mare,ab
+2381,Arieseni,ab
+2577,Avram Iancu,ab
+2915,Oras Baia De Aries,ab
+2988,Berghin,ab
+3039,Bistra,ab
+3397,Blandiana,ab
+3459,Bucium,ab
+3761,Cenade,ab
+3805,Cergau,ab
+3841,Ceru-Bacainti,ab
+3958,Cetatea De Balta,ab
+4008,Ciuruleasa,ab
+4106,Calnic,ab
+4142,Cricau,ab
+4188,Craciunelu De Jos,ab
+4240,Daia Romana,ab
+4268,Dostat,ab
+4302,Farau,ab
+4366,Galda De Jos,ab
+4482,Garbova,ab
+4525,Garda De Sus,ab
+4703,Hoparta,ab
+4767,Horea,ab
+4927,Ighiu,ab
+4981,Intregalde,ab
+5103,Jidvei,ab
+5167,Livezile,ab
+5210,Lopadea Noua,ab
+5309,Lunca Muresului,ab
+5336,Lupsa,ab
+5577,Metes,ab
+5700,Mihalt,ab
+5755,Miraslau,ab
+5826,Mogos,ab
+6048,Noslac,ab
+6119,Ocolis,ab
+6164,Ohaba,ab
+6217,Pianu,ab
+6271,Poiana Vadului,ab
+6397,Ponor,ab
+6468,Posaga,ab
+6547,Radesti,ab
+6592,Rametea,ab
+6627,Ramet,ab
+6761,Rosia Montana,ab
+6930,Rosia De Secas,ab
+6976,Salciua,ab
+7044,Salistea,ab
+7099,Sasciori,ab
+7197,Scarisoara,ab
+7348,Sancel,ab
+7384,Santimbru,ab
+7446,Sohodol,ab
+7767,Stremt,ab
+7810,Sibot,ab
+7865,Sona,ab
+7945,Spring,ab
+8014,Sugag,ab
+8096,Oras Teius,ab
+8158,Unirea,ab
+8229,Vadu Motilor,ab
+8354,Valea Lunga,ab
+8425,Vidra,ab
+8826,Vintu De Jos,ab
+9019,Cut,ab
+9026,Bucerdea Granoasa,ab
+9262,Municipiul Arad,ar
+9280,Fantanele,ar
+9333,Livada,ar
+9360,Sofronea,ar
+9397,Vladimirescu,ar
+9459,Oras Chisineu-Cris,ar
+9495,Oras Curtici,ar
+9538,Oras Ineu,ar
+9574,Oras Lipova,ar
+9627,Oras Nadlac,ar
+9654,Oras Pancota,ar
+9690,Oras Sebis,ar
+9743,Almas,ar
+9798,Apateu,ar
+9832,Archis,ar
+9887,Bata,ar
+9930,Beliu,ar
+10006,Birchis,ar
+10051,Barsa,ar
+10104,Barzava,ar
+10195,Bocsig,ar
+10239,Brazii,ar
+10293,Buteni,ar
+10346,Carand,ar
+10373,Cermei,ar
+10417,Chisindia,ar
+10453,Conop,ar
+10514,Covasint,ar
+10532,Craiva,ar
+10649,Dezna,ar
+10701,Dieci,ar
+10765,Ususau,ar
+10827,Felnac,ar
+10872,Ghioroc,ar
+10916,Graniceri,ar
+10943,Gurahont,ar
+11058,Halmagiu,ar
+11174,Halmagel,ar
+11236,Hasmas,ar
+11307,Ignesti,ar
+11352,Iratosu,ar
+11398,Macea,ar
+11423,Misca,ar
+11478,Moneasa,ar
+11502,Olari,ar
+11539,Paulis,ar
+11584,Oras Pecica,ar
+11637,Peregu Mare,ar
+11664,Petris,ar
+11735,Pilu,ar
+11762,Plescuta,ar
+11842,Savarsin,ar
+11940,Secusigiu,ar
+11995,Seleus,ar
+12037,Semlac,ar
+12055,Sintea Mare,ar
+12091,Oras Santana,ar
+12126,Socodor,ar
+12144,Sagu,ar
+12206,Seitin,ar
+12224,Sepreus,ar
+12242,Sicula,ar
+12288,Silindia,ar
+12340,Simand,ar
+12368,Siria,ar
+12402,Sistarovat,ar
+12457,Taut,ar
+12509,Tarnova,ar
+12572,Varadia De Mures,ar
+12643,Vinga,ar
+12689,Varfurile,ar
+12778,Zabrani,ar
+12812,Zarand,ar
+12849,Zerind,ar
+12876,Zimandu Nou,ar
+12912,Dorobanti,ar
+12920,Frumuseni,ar
+12938,Zadareni,ar
+13169,Municipiul Pitesti,ag
+13187,Bascov,ag
+13276,Bradu,ag
+13301,Oras Mioveni,ag
+13365,Maracineni,ag
+13392,Oras Stefanesti,ag
+13490,Municipiul Campulung,ag
+13524,Valea Mare Pravat,ag
+13622,Municipiul Curtea De Arges,ag
+13668,Oras Costesti,ag
+13757,Oras Topoloveni,ag
+13819,Albestii De Arges,ag
+13891,Albestii De Muscel,ag
+13935,Albota,ag
+13999,Aninoasa,ag
+14049,Arefu,ag
+14085,Babana,ag
+14165,Baiculesti,ag
+14272,Balilesti,ag
+14352,Beleti-Negresti,ag
+14405,Berevoesti,ag
+14450,Barla,ag
+14584,Bogati,ag
+14673,Boteni,ag
+14726,Botesti,ag
+14753,Bradulet,ag
+14851,Budeasa,ag
+14922,Bughea De Jos,ag
+14940,Buzoesti,ag
+15064,Caldararu,ag
+15108,Calinesti,ag
+15233,Cateasca,ag
+15313,Cepari,ag
+15402,Cetateni,ag
+15448,Cicanesti,ag
+15493,Ciofrangeni,ag
+15554,Ciomagesti,ag
+15652,Cocu,ag
+15741,Corbeni,ag
+15830,Corbi,ag
+15901,Cosesti,ag
+15983,Cotmeana,ag
+16132,Cuca,ag
+16285,Davidesti,ag
+16329,Dambovicioara,ag
+16365,Darmanesti,ag
+16427,Dobresti,ag
+16454,Domnesti,ag
+16472,Dragoslavele,ag
+16506,Draganu,ag
+16551,Godeni,ag
+16613,Harsesti,ag
+16659,Hartiesti,ag
+16739,Izvoru,ag
+16757,Leordeni,ag
+16908,Leresti,ag
+16944,Lunca Corbului,ag
+17049,Malureni,ag
+17101,Merisani,ag
+17209,Micesti,ag
+17254,Mihaesti,ag
+17334,Mioarele,ag
+17398,Mirosi,ag
+17423,Moraresti,ag
+17496,Mosoaia,ag
+17575,Mozaceni,ag
+17619,Musatesti,ag
+17726,Negrasi,ag
+17771,Nucsoara,ag
+17824,Oarja,ag
+17851,Pietrosani,ag
+17913,Poienarii De Arges,ag
+17968,Poienarii De Muscel,ag
+18028,Poiana Lacului,ag
+18162,Popesti,ag
+18242,Priboieni,ag
+18331,Ratesti,ag
+18411,Recea,ag
+18475,Rociu,ag
+18527,Rucar,ag
+18554,Salatrucu,ag
+18581,Sapata,ag
+18670,Schitu Golesti,ag
+18741,Slobozia,ag
+18778,Stalpeni,ag
+18858,Stoenesti,ag
+18938,Stolnici,ag
+19007,Suseni,ag
+19114,Stefan Cel Mare,ag
+19141,Suici,ag
+19212,Teiu,ag
+19249,Tigveni,ag
+19338,Titesti,ag
+19392,Uda,ag
+19560,Ungheni,ag
+19631,Valea Danului,ag
+19695,Valea Iasului,ag
+19793,Vedea,ag
+19999,Vladesti,ag
+20048,Raca,ag
+20055,Vulturesti,ag
+20063,Bughea De Sus,ag
+20297,Municipiul Bacau,bc
+20313,Hemeius,bc
+20359,Letea Veche,bc
+20411,Magura,bc
+20466,Margineni,bc
+20563,Municipiul Onesti,bc
+20607,Gura Vaii,bc
+20670,Stefan Cel Mare,bc
+20778,Oras Buhusi,bc
+20821,Oras Comanesti,bc
+20876,Municipiul Moinesti,bc
+20910,Oras Slanic-Moldova,bc
+20965,Oras Targu Ocna,bc
+21007,Agas,bc
+21098,Ardeoani,bc
+21123,Asau,bc
+21196,Balcani,bc
+21249,Beresti-Bistrita,bc
+21338,Beresti-Tazlau,bc
+21418,Berzunti,bc
+21454,Barsanesti,bc
+21506,Blagesti,bc
+21560,Bogdanesti,bc
+21597,Brusturoasa,bc
+21668,Buhoci,bc
+21720,Casin,bc
+21757,Caiuti,bc
+21855,Cleja,bc
+21891,Colonesti,bc
+21971,Corbasca,bc
+22059,Cotofanesti,bc
+22111,Damienesti,bc
+22166,Oras Darmanesti,bc
+22237,Dealu Morii,bc
+22380,Dofteana,bc
+22460,Faraoani,bc
+22488,Filipeni,bc
+22576,Filipesti,bc
+22665,Gaiceana,bc
+22718,Ghimes-Faget,bc
+22781,Garleni,bc
+22834,Glavanesti,bc
+22898,Helegiu,bc
+22941,Horgesti,bc
+23047,Huruiesti,bc
+23127,Izvoru Berheciului,bc
+23207,Lipova,bc
+23289,Livezi,bc
+23350,Luizi-Calugara,bc
+23387,Magiresti,bc
+23449,Manastirea Casin,bc
+23494,Motoseni,bc
+23644,Negri,bc
+23715,Nicolae Balcescu,bc
+23797,Oituz,bc
+23868,Oncesti,bc
+23948,Orbeni,bc
+23975,Palanca,bc
+24034,Parava,bc
+24089,Parincea,bc
+24187,Pancesti,bc
+24276,Pargaresti,bc
+24338,Parjol,bc
+24427,Plopana,bc
+24524,Podu Turcului,bc
+24631,Poduri,bc
+24711,Racova,bc
+24766,Racaciuni,bc
+24837,Rachitoasa,bc
+24999,Rosiori,bc
+25068,Sascut,bc
+25148,Sanduleni,bc
+25228,Saucesti,bc
+25291,Scorteni,bc
+25362,Secuieni,bc
+25488,Solont,bc
+25521,Stanisesti,bc
+25629,Strugari,bc
+25692,Tamasi,bc
+25745,Tatarasti,bc
+25825,Targu Trotus,bc
+25861,Traian,bc
+25932,Ungureni,bc
+26029,Urechesti,bc
+26083,Valea Seaca,bc
+26118,Vultureni,bc
+26289,Zemes,bc
+26320,Sarata,bc
+26338,Buciumi,bc
+26346,Gioseni,bc
+26353,Odobesti,bc
+26361,Prajesti,bc
+26379,Itesti,bc
+26564,Municipiul Oradea,bh
+26582,Sanmartin,bh
+26653,Santandrei,bh
+26699,Oras Alesd,bh
+26742,Astileu,bh
+26804,Municipiul Beius,bh
+26840,Oras Stei,bh
+26877,Municipiul Marghita,bh
+26920,Oras Nucet,bh
+26975,Municipiul Salonta,bh
+27007,Oras Vascau,bh
+27070,Abram,bh
+27169,Abramut,bh
+27212,Auseu,bh
+27285,Avram Iancu,bh
+27329,Balc,bh
+27383,Batar,bh
+27436,Biharia,bh
+27506,Boianu Mare,bh
+27560,Borod,bh
+27631,Bors,bh
+27686,Bratca,bh
+27757,Brusturi,bh
+27846,Budureasa,bh
+27908,Buduslau,bh
+27935,Bulz,bh
+27971,Buntesti,bh
+28077,Cabesti,bh
+28139,Capalna,bh
+28193,Carpinet,bh
+28246,Cefa,bh
+28335,Ceica,bh
+28415,Cetariu,bh
+28497,Cherechiu,bh
+28530,Chislaz,bh
+28610,Ciuhoi,bh
+28665,Ciumeghiu,bh
+28709,Campani,bh
+28763,Cociuba Mare,bh
+28816,Copacel,bh
+28889,Cristioru De Jos,bh
+28941,Curatele,bh
+29001,Curtuiseni,bh
+29038,Derna,bh
+29092,Diosig,bh
+29154,Dobresti,bh
+29243,Draganesti,bh
+29341,Dragesti,bh
+29403,Finis,bh
+29467,Girisu De Cris,bh
+29519,Hidiselu De Sus,bh
+29573,Holod,bh
+29662,Husasau De Tinca,bh
+29724,Ineu,bh
+29760,Lazuri De Beius,bh
+29813,Lazareni,bh
+29902,Lugasu De Jos,bh
+29948,Lunca,bh
+30014,Madaras,bh
+30069,Magesti,bh
+30149,Nojorid,bh
+30229,Olcea,bh
+30274,Osorhei,bh
+30336,Pietroasa,bh
+30416,Pocola,bh
+30470,Pomezeu,bh
+30568,Popesti,bh
+30648,Rabagani,bh
+30719,Remetea,bh
+30773,Rieni,bh
+30844,Rosia,bh
+30871,Sacadat,bh
+30915,Oras Sacueni,bh
+30988,Salacea,bh
+31011,Salard,bh
+31057,Sambata,bh
+31128,Sarbi,bh
+31208,Spinus,bh
+31262,Suplacu De Barcau,bh
+31333,Simian,bh
+31379,Sinteu,bh
+31422,Soimi,bh
+31510,Suncuius,bh
+31565,Tarcea,bh
+31609,Tarcaia,bh
+31654,Tauteu,bh
+31716,Tileagd,bh
+31789,Tinca,bh
+31841,Tulca,bh
+31878,Tetchea,bh
+31921,Uileacu De Beius,bh
+31976,Vadu Crisului,bh
+32027,Oras Valea Lui Mihai,bh
+32045,Viisoara,bh
+32090,Varciorog,bh
+32153,Tamaseu,bh
+32161,Paleu,bh
+32179,Sannicolau Roman,bh
+32187,Rosiori,bh
+32195,Gepiu,bh
+32201,Toboliu,bh
+32394,Municipiul Bistrita,bn
+32483,Oras Beclean,bn
+32544,Oras Nasaud,bn
+32599,Oras Sangeorz-Bai,bn
+32633,Bistrita Bargaului,bn
+32660,Branistea,bn
+32704,Budacu De Jos,bn
+32768,Budesti,bn
+32811,Caianu Mic,bn
+32884,Cetate,bn
+32955,Ciceu-Giurgesti,bn
+33015,Chiochis,bn
+33122,Chiuza,bn
+33177,Cosbuc,bn
+33202,Dumitra,bn
+33248,Feldru,bn
+33275,Galatii Bistritei,bn
+33337,Ilva Mare,bn
+33364,Ilva Mica,bn
+33382,Josenii Bargaului,bn
+33435,Lechinta,bn
+33514,Lesu,bn
+33541,Livezile,bn
+33603,Lunca Ilvei,bn
+33621,Maieru,bn
+33658,Matei,bn
+33729,Magura Ilvei,bn
+33765,Mariselu,bn
+33845,Micestii De Campie,bn
+33881,Milas,bn
+33952,Monor,bn
+33989,Nimigea,bn
+34075,Nuseni,bn
+34155,Parva,bn
+34173,Petru Rares,bn
+34235,Prundu Bargaului,bn
+34262,Rebra,bn
+34280,Rebrisoara,bn
+34333,Rodna,bn
+34360,Romuli,bn
+34397,Salva,bn
+34422,Silivasu De Campie,bn
+34477,Sanmihaiu De Campie,bn
+34547,Spermezeu,bn
+34618,Sant,bn
+34645,Sieu,bn
+34690,Sieu-Magherus,bn
+34770,Sieu-Odorhei,bn
+34850,Sieut,bn
+34903,Sintereag,bn
+34985,Teaca,bn
+35054,Telciu,bn
+35090,Tiha Bargaului,bn
+35152,Tarlisua,bn
+35269,Uriu,bn
+35312,Urmenis,bn
+35429,Zagra,bn
+35731,Municipiul Botosani,bt
+35759,Curtesti,bt
+35839,Rachiti,bt
+35884,Stauceni,bt
+35946,Oras Darabani,bt
+36006,Municipiul Dorohoi,bt
+36060,Oras Saveni,bt
+36131,Albesti,bt
+36202,Avrameni,bt
+36300,Baluseni,bt
+36373,Braesti,bt
+36426,Broscauti,bt
+36453,Oras Bucecea,bt
+36499,Calarasi,bt
+36532,Concesti,bt
+36569,Copalau,bt
+36649,Cordareni,bt
+36676,Corlateni,bt
+36756,Corni,bt
+36809,Cotusca,bt
+36907,Cristesti,bt
+36952,Cristinesti,bt
+37011,Dersca,bt
+37057,Dangeni,bt
+37100,Dobarceni,bt
+37173,Draguseni,bt
+37217,Durnesti,bt
+37280,Oras Flamanzi,bt
+37324,Frumusica,bt
+37397,George Enescu,bt
+37459,Gorbanesti,bt
+37547,Havarna,bt
+37618,Hanesti,bt
+37672,Hiliseu-Horia,bt
+37734,Hlipiceni,bt
+37770,Hudesti,bt
+37823,Ibanesti,bt
+37850,Leorda,bt
+37912,Lunca,bt
+37958,Manoleasa,bt
+38063,Mihai Eminescu,bt
+38161,Mihaileni,bt
+38241,Mihalaseni,bt
+38321,Mileanca,bt
+38376,Mitoc,bt
+38456,Nicseni,bt
+38492,Paltinis,bt
+38544,Pomarla,bt
+38580,Prajeni,bt
+38633,Radauti-Prut,bt
+38679,Rauseni,bt
+38731,Ripiceni,bt
+38811,Roma,bt
+38848,Romanesti,bt
+38893,Santa Mare,bt
+38982,Suharau,bt
+39051,Sulita,bt
+39122,Sendriceni,bt
+39168,Oras Stefanesti,bt
+39220,Stiubieni,bt
+39266,Todireni,bt
+39328,Trusesti,bt
+39391,Tudora,bt
+39417,Ungureni,bt
+39532,Unteni,bt
+39612,Vaculesti,bt
+39658,Viisoara,bt
+39694,Varfu Campului,bt
+39738,Vladeni,bt
+39792,Vlasinesti,bt
+39836,Vorniceni,bt
+39872,Vorona,bt
+39942,Lozna,bt
+39959,Dimacheni,bt
+39967,Candesti,bt
+39975,Cosula,bt
+39983,Blandesti,bt
+40035,Adaseni,bt
+40198,Municipiul Brasov,bv
+40214,Oras Ghimbav,bv
+40241,Municipiul Codlea,bv
+40278,Municipiul Fagaras,bv
+40303,Oras Predeal,bv
+40367,Oras Rasnov,bv
+40394,Oras Rupea,bv
+40438,Municipiul Sacele,bv
+40465,Oras Victoria,bv
+40492,Oras Zarnesti,bv
+40526,Apata,bv
+40544,Beclean,bv
+40606,Bod,bv
+40633,Bran,bv
+40688,Budila,bv
+40704,Bunesti,bv
+40768,Cata,bv
+40820,Cincu,bv
+40857,Comana,bv
+40900,Cristian,bv
+40928,Dumbravita,bv
+40955,Feldioara,bv
+40991,Fundata,bv
+41033,Halchiu,bv
+41088,Harman,bv
+41113,Harseni,bv
+41177,Hoghiz,bv
+41248,Homorod,bv
+41284,Jibert,bv
+41346,Lisa,bv
+41382,Maierus,bv
+41417,Mandra,bv
+41471,Moieciu,bv
+41541,Ormenis,bv
+41578,Parau,bv
+41621,Poiana Marului,bv
+41667,Prejmer,bv
+41701,Racos,bv
+41738,Recea,bv
+41818,Sercaia,bv
+41854,Sinca,bv
+41925,Sanpetru,bv
+41943,Soars,bv
+42003,Tarlungeni,bv
+42058,Teliu,bv
+42076,Ticusu,bv
+42101,Ucea,bv
+42156,Ungra,bv
+42183,Vama Buzaului,bv
+42236,Vistea,bv
+42307,Voila,bv
+42398,Vulcan,bv
+42449,Sinca Noua,bv
+42456,Crizbav,bv
+42464,Sambata De Sus,bv
+42472,Holbav,bv
+42480,Dragus,bv
+42498,Augustin,bv
+42682,Municipiul Braila,br
+42708,Chiscani,br
+42753,Oras Faurei,br
+42771,Surdila-Greci,br
+42824,Baraganul,br
+42842,Bertestii De Jos,br
+42913,Bordei Verde,br
+42968,Ciocile,br
+43019,Ciresu,br
+43073,Dudesti,br
+43117,Frecatei,br
+43180,Galbenu,br
+43242,Gemenele,br
+43279,Gradistea,br
+43313,Gropeni,br
+43331,Oras Ianca,br
+43411,Oras Insuratei,br
+43466,Jirlau,br
+43493,Marasu,br
+43563,Maxineni,br
+43625,Mircea Voda,br
+43652,Movila Miresii,br
+43698,Racovita,br
+43732,Ramnicelu,br
+43787,Romanu,br
+43812,Rosiori,br
+43867,Salcia Tudor,br
+43929,Scortaru Nou,br
+43992,Silistea,br
+44060,Stancuta,br
+44113,Surdila-Gaiseanca,br
+44140,Sutesti,br
+44177,Tichilesti,br
+44202,Traian,br
+44257,Tudor Vladimirescu,br
+44300,Tufesti,br
+44328,Ulmu,br
+44355,Unirea,br
+44391,Vadeni,br
+44435,Victoria,br
+44462,Visani,br
+44505,Viziru,br
+44532,Zavoaia,br
+44560,Cazasu,br
+44818,Municipiul Buzau,bz
+44845,Municipiul Ramnicu Sarat,bz
+44863,Amaru,bz
+44934,Balta Alba,bz
+44989,Balaceanu,bz
+45003,Beceni,bz
+45101,Berca,bz
+45245,Bisoca,bz
+45334,Blajani,bz
+45361,Boldu,bz
+45389,Bozioru,bz
+45496,Bradeanu,bz
+45539,Braesti,bz
+45619,Breaza,bz
+45673,Buda,bz
+45753,Calvini,bz
+45815,C.a. Rosetti,bz
+45888,Canesti,bz
+45959,Catina,bz
+46019,Cernatesti,bz
+46108,Chiliile,bz
+46180,Chiojdu,bz
+46251,Cilibia,bz
+46313,Cislau,bz
+46377,Cochirleanca,bz
+46439,Colti,bz
+46484,Costesti,bz
+46554,Cozieni,bz
+46769,Galbinasi,bz
+46803,Gheraseni,bz
+46830,Ghergheasa,bz
+46867,Glodeanu Sarat,bz
+46910,Glodeanu-Silistea,bz
+47006,Grebanu,bz
+47079,Gura Teghii,bz
+47159,Largu,bz
+47186,Lopatari,bz
+47300,Luciu,bz
+47337,Magura,bz
+47373,Maracineni,bz
+47417,Margaritesti,bz
+47453,Merei,bz
+47578,Mihailesti,bz
+47630,Manzalesti,bz
+47774,Movila Banului,bz
+47818,Murgesti,bz
+47854,Naeni,bz
+47916,Oras Nehoiu,bz
+48021,Odaile,bz
+48138,Padina,bz
+48165,Pardosi,bz
+48227,Panatau,bz
+48325,Oras Patarlagele,bz
+48487,Pietroasele,bz
+48557,Parscov,bz
+48682,Podgoria,bz
+48744,Oras Pogoanele,bz
+48771,Posta Calnau,bz
+48842,Puiesti,bz
+48922,Racoviteni,bz
+48968,Ramnicelu,bz
+49019,Robeasca,bz
+49046,Rusetu,bz
+49073,Sageata,bz
+49153,Sahateni,bz
+49206,Sapoca,bz
+49233,Sarulesti,bz
+49313,Scortoasa,bz
+49439,Scutelnici,bz
+49484,Siriu,bz
+49545,Smeeni,bz
+49625,Stalpu,bz
+49643,Tisau,bz
+49769,Topliceni,bz
+49849,Tintesti,bz
+49894,Ulmeni,bz
+49956,Vadu Pasii,bz
+50022,Valea Ramnicului,bz
+50068,Valea Salciei,bz
+50102,Vernesti,bz
+50228,Vintila Voda,bz
+50326,Viperesti,bz
+50399,Valcelele,bz
+50415,Zarnesti,bz
+50479,Ziduri,bz
+50549,Unguriu,bz
+50564,Florica,bz
+50790,Municipiul Resita,cs
+50889,Oras Anina,cs
+50923,Oras Baile Herculane,cs
+50969,Oras Bocsa,cs
+50987,Ocna De Fier,cs
+51010,Municipiul Caransebes,cs
+51056,Oras Moldova Noua,cs
+51118,Oras Oravita,cs
+51207,Oras Otelu Rosu,cs
+51243,Armenis,cs
+51305,Bania,cs
+51332,Bautar,cs
+51387,Berliste,cs
+51449,Berzasca,cs
+51500,Berzovia,cs
+51546,Bolvasnita,cs
+51573,Bozovici,cs
+51626,Brebu,cs
+51662,Brebu Nou,cs
+51699,Buchin,cs
+51751,Bucosnita,cs
+51804,Carasova,cs
+51840,Carbunari,cs
+51877,Constantin Daicoviciu,cs
+51948,Ciclova Romana,cs
+51984,Ciuchici,cs
+52035,Ciudanovita,cs
+52062,Copacele,cs
+52115,Cornea,cs
+52160,Cornereva,cs
+52570,Dalboset,cs
+52650,Doclin,cs
+52696,Dognecea,cs
+52721,Domasnea,cs
+52758,Ezeris,cs
+52785,Farliug,cs
+52856,Forotic,cs
+52909,Garnic,cs
+52936,Glimboca,cs
+52954,Goruia,cs
+52990,Gradinari,cs
+53023,Iablanita,cs
+53069,Lapusnicel,cs
+53103,Lapusnicu Mare,cs
+53130,Luncavita,cs
+53167,Lupac,cs
+53210,Marga,cs
+53247,Maureni,cs
+53274,Mehadia,cs
+53327,Mehadica,cs
+53345,Naidas,cs
+53372,Obreja,cs
+53425,Paltinis,cs
+53489,Coronini,cs
+53513,Pojejena,cs
+53577,Prigor,cs
+53639,Ramna,cs
+53675,Racasdia,cs
+53700,Eftimie Murgu,cs
+53728,Rusca Montana,cs
+53755,Sacu,cs
+53791,Sasca Montana,cs
+53853,Sichevita,cs
+54056,Slatina-Timis,cs
+54109,Socol,cs
+54163,Sopotu Nou,cs
+54270,Teregova,cs
+54305,Ticvaniu Mare,cs
+54350,Tarnova,cs
+54387,Toplet,cs
+54412,Turnu Ruieni,cs
+54485,Valiug,cs
+54500,Varadia,cs
+54537,Vermes,cs
+54573,Vrani,cs
+54617,Zavoi,cs
+54699,Zorlentu Mare,cs
+54975,Municipiul Cluj-Napoca,cj
+55008,Municipiul Dej,cj
+55062,Cuzdrioara,cj
+55106,Jichisu De Jos,cj
+55160,Mica,cj
+55259,Municipiul Turda,cj
+55277,Mihai Viteazu,cj
+55311,Sandulesti,cj
+55357,Municipiul Campia Turzii,cj
+55384,Municipiul Gherla,cj
+55446,Oras Huedin,cj
+55473,Aghiresu,cj
+55598,Aiton,cj
+55623,Alunis,cj
+55687,Apahida,cj
+55776,Aschileu,cj
+55838,Baciu,cj
+55918,Baisoara,cj
+56014,Belis,cj
+56096,Bobalna,cj
+56210,Bontida,cj
+56265,Borsa,cj
+56327,Buza,cj
+56354,Caianu,cj
+56425,Calarasi,cj
+56461,Calatele,cj
+56522,Camarasu,cj
+56568,Capusu Mare,cj
+56666,Caseiu,cj
+56773,Catina,cj
+56844,Ceanu Mare,cj
+56988,Chinteni,cj
+57083,Chiuiesti,cj
+57163,Ciucea,cj
+57225,Ciurila,cj
+57314,Catcau,cj
+57350,Cojocna,cj
+57449,Cornesti,cj
+57546,Dabaca,cj
+57582,Feleacu,cj
+57644,Fizesu Gherlii,cj
+57706,Floresti,cj
+57742,Frata,cj
+57831,Geaca,cj
+57902,Gilau,cj
+57948,Garbau,cj
+58008,Iara,cj
+58142,Iclod,cj
+58204,Izvoru Crisului,cj
+58259,Jucu,cj
+58311,Luna,cj
+58357,Maguri-Racatau,cj
+58393,Manastireni,cj
+58464,Margau,cj
+58534,Marisel,cj
+58552,Mintiu Gherlii,cj
+58623,Mociu,cj
+58721,Moldovenesti,cj
+58794,Palatca,cj
+58856,Panticeu,cj
+58918,Petrestii De Jos,cj
+58990,Ploscos,cj
+59041,Poieni,cj
+59130,Recea-Cristur,cj
+59238,Risca,cj
+59283,Sacuieu,cj
+59327,Savadisla,cj
+59416,Sic,cj
+59434,Sancraiu,cj
+59498,Sanmartin,cj
+59586,Sanpaul,cj
+59657,Suatu,cj
+59693,Tritenii De Jos,cj
+59764,Tureni,cj
+59826,Taga,cj
+59880,Unguras,cj
+59942,Vad,cj
+60026,Valea Ierii,cj
+60062,Viisoara,cj
+60099,Vultureni,cj
+60169,Negreni,cj
+60419,Municipiul Constanta,ct
+60455,Oras Eforie,ct
+60482,Municipiul Mangalia,ct
+60507,Oras Navodari,ct
+60534,Oras Techirghiol,ct
+60570,Agigea,ct
+60598,23-Aug,ct
+60632,Limanu,ct
+60687,Oras Ovidiu,ct
+60721,Tuzla,ct
+60776,Oras Cernavoda,ct
+60801,Oras Harsova,ct
+60847,Municipiul Medgidia,ct
+60883,Adamclisi,ct
+60945,Albesti,ct
+61005,Aliman,ct
+61069,Oras Baneasa,ct
+61121,Castelu,ct
+61167,Cerchezu,ct
+61210,Chirnogeni,ct
+61256,Ciobanu,ct
+61283,Ciocarlia,ct
+61318,Cobadin,ct
+61372,Cogealac,ct
+61452,Comana,ct
+61513,Corbu,ct
+61559,Crucea,ct
+61620,Cumpana,ct
+61675,Deleni,ct
+61737,Dobromir,ct
+61808,Garliciu,ct
+61826,Ghindaresti,ct
+61871,Independenta,ct
+61951,Ion Corvin,ct
+62020,Istria,ct
+62057,Lipnita,ct
+62137,Mereni,ct
+62191,Mihail Kogalniceanu,ct
+62253,Mihai Viteazu,ct
+62280,Mircea Voda,ct
+62360,Oras Murfatlar,ct
+62397,Oras Negru Voda,ct
+62440,Nicolae Balcescu,ct
+62486,Oltina,ct
+62538,Ostrov,ct
+62609,Pantelimon,ct
+62672,Pecineaga,ct
+62707,Pestera,ct
+62761,Poarta Alba,ct
+62798,Rasova,ct
+62823,Saraiu,ct
+62878,Sacele,ct
+62903,Seimeni,ct
+62949,Silistea,ct
+62985,Targusor,ct
+63045,Topalu,ct
+63072,Topraisar,ct
+63125,Valu Lui Traian,ct
+63152,Lumina,ct
+63161,Dumbraveni,ct
+63170,Vulturu,ct
+63189,Tortoman,ct
+63198,Amzacea,ct
+63278,Horia,ct
+63286,Costinesti,ct
+63294,Baraganu,ct
+63300,Cuza Voda,ct
+63318,Saligny,ct
+63326,Gradina,ct
+63334,Fantanele,ct
+63394,Municipiul Sfantu Gheorghe,cv
+63447,Oras Baraolt,cv
+63526,Oras Covasna,cv
+63553,Comandau,cv
+63580,Oras Intorsura Buzaului,cv
+63633,Barcani,cv
+63688,Sita Buzaului,cv
+63740,Municipiul Targu Secuiesc,cv
+63777,Aita Mare,cv
+63802,Batani,cv
+63866,Belin,cv
+63893,Bodoc,cv
+63937,Borosneu Mare,cv
+64005,Brates,cv
+64041,Bradut,cv
+64096,Bretcu,cv
+64130,Catalina,cv
+64194,Cernat,cv
+64238,Chichis,cv
+64265,Dobarlau,cv
+64318,Ghelinta,cv
+64345,Ghidfalau,cv
+64390,Haghig,cv
+64425,Ilieni,cv
+64461,Lemnia,cv
+64504,Malnas,cv
+64568,Moacsa,cv
+64602,Ojdula,cv
+64639,Ozun,cv
+64719,Poian,cv
+64773,Reci,cv
+64826,Sanzieni,cv
+64871,Turia,cv
+64906,Valea Crisului,cv
+64942,Valcele,cv
+64997,Varghis,cv
+65011,Zagon,cv
+65048,Zabala,cv
+65099,Valea Mare,cv
+65105,Mereni,cv
+65113,Arcus,cv
+65121,Bixad,cv
+65139,Micfalau,cv
+65147,Dalnic,cv
+65154,Estelnic,cv
+65342,Municipiul Targoviste,db
+65379,Aninoasa,db
+65413,Doicesti,db
+65431,Razvad,db
+65477,Sotanga,db
+65501,Ulmi,db
+65609,Oras Fieni,db
+65645,Motaieni,db
+65681,Oras Gaesti,db
+65707,Gura Foii,db
+65752,Petresti,db
+65841,Municipiul Moreni,db
+65869,Iedera,db
+65921,Oras Pucioasa,db
+66009,Branesti,db
+66081,Oras Titu,db
+66152,Branistea,db
+66198,Baleni,db
+66223,Barbuletu,db
+66330,Bezdead,db
+66401,Bilciuresti,db
+66438,Buciumeni,db
+66474,Bucsani,db
+66526,Candesti,db
+66580,Cobia,db
+66697,Cojasca,db
+66731,Comisani,db
+66768,Contesti,db
+66857,Corbii Mari,db
+66955,Cornatelu,db
+67014,Cornesti,db
+67121,Costestii Din Vale,db
+67167,Crangurile,db
+67256,Darmanesti,db
+67292,Dobra,db
+67327,Dragodana,db
+67407,Dragomiresti,db
+67470,Finta,db
+67522,Glodeni,db
+67595,Gura Ocnitei,db
+67648,Gura Sutii,db
+67675,Hulubesti,db
+67737,I. L. Caragiale,db
+67773,Lucieni,db
+67835,Ludesti,db
+67906,Lunguletu,db
+67942,Malu Cu Flori,db
+68002,Manesti,db
+68048,Matasaru,db
+68128,Mogosani,db
+68182,Moroeni,db
+68253,Morteni,db
+68280,Nucet,db
+68324,Ocnita,db
+68342,Odobesti,db
+68404,Pietrosita,db
+68431,Poiana,db
+68468,Potlogi,db
+68529,Produlesti,db
+68565,Pucheni,db
+68627,Oras Racari,db
+68716,Runcu,db
+68789,Salcioara,db
+68887,Selaru,db
+68921,Tatarani,db
+68976,Uliesti,db
+69063,Valea Lunga,db
+69170,Valea Mare,db
+69250,Vacaresti,db
+69303,Valeni-Dambovita,db
+69330,Visina,db
+69394,Visinesti,db
+69447,Varfuri,db
+69526,Voinesti,db
+69615,Vulcana-Bai,db
+69900,Municipiul Craiova,dj
+69964,Bucovat,dj
+70094,Isalnita,dj
+70110,Podari,dj
+70174,Simnicu De Sus,dj
+70316,Municipiul Bailesti,dj
+70352,Municipiul Calafat,dj
+70414,Oras Filiasi,dj
+70502,Oras Segarcea,dj
+70520,Afumati,dj
+70566,Almaj,dj
+70637,Amarastii De Jos,dj
+70673,Amarastii De Sus,dj
+70726,Apele Vii,dj
+70744,Argetoaia,dj
+70879,Oras Bechet,dj
+70897,Bistret,dj
+70940,Barca,dj
+70968,Botosesti-Paia,dj
+70986,Brabova,dj
+71055,Bradesti,dj
+71126,Bralostita,dj
+71199,Bratovoesti,dj
+71260,Breasta,dj
+71340,Bulzesti,dj
+71457,Calopar,dj
+71518,Caraula,dj
+71536,Carpen,dj
+71572,Castranova,dj
+71607,Calarasi,dj
+71634,Celaru,dj
+71698,Cerat,dj
+71723,Cernatesti,dj
+71787,Cetate,dj
+71812,Cioroiasi,dj
+71858,Ciupercenii Noi,dj
+71885,Cosoveni,dj
+71910,Cotofenii Din Dos,dj
+71956,Daneti,dj
+72007,Oras Dabuleni,dj
+72034,Desa,dj
+72052,Diosti,dj
+72098,Dobresti,dj
+72150,Dragotesti,dj
+72221,Dranic,dj
+72276,Farcas,dj
+72383,Galicea Mare,dj
+72409,Ghercesti,dj
+72463,Gighera,dj
+72506,Giubega,dj
+72533,Giurgita,dj
+72579,Gangiova,dj
+72604,Gogosu,dj
+72640,Goicea,dj
+72677,Goiesti,dj
+72819,Grecesti,dj
+72882,Izvoare,dj
+72926,Leu,dj
+72953,Lipovu,dj
+72980,Macesu De Jos,dj
+73013,Macesu De Sus,dj
+73031,Maglavit,dj
+73068,Malu Mare,dj
+73102,Melinesti,dj
+73246,Mischii,dj
+73317,Marsani,dj
+73335,Motatei,dj
+73371,Murgasi,dj
+73460,Negoi,dj
+73503,Orodel,dj
+73567,Ostroveni,dj
+73594,Perisor,dj
+73629,Pielesti,dj
+73665,Piscu Vechi,dj
+73709,Plenita,dj
+73736,Poiana Mare,dj
+73772,Predesti,dj
+73852,Radovan,dj
+73905,Rast,dj
+73923,Robanesti,dj
+73996,Sadova,dj
+74028,Salcuta,dj
+74073,Scaesti,dj
+74108,Seaca De Camp,dj
+74135,Seaca De Padure,dj
+74171,Secu,dj
+74224,Silistea Crucii,dj
+74242,Sopot,dj
+74322,Teasc,dj
+74359,Terpezita,dj
+74411,Teslui,dj
+74509,Tuglui,dj
+74536,Unirea,dj
+74554,Urzicuta,dj
+74581,Valea Stanciului,dj
+74616,Vela,dj
+74705,Verbita,dj
+74732,Vartop,dj
+74750,Varvoru De Jos,dj
+74842,Catane,dj
+74859,Carcea,dj
+74867,Carna,dj
+74875,Cotofenii Din Fata,dj
+74883,Dobrotesti,dj
+74891,Galiciuica,dj
+74907,Ghidici,dj
+74915,Ghindeni,dj
+74923,Intorsura,dj
+74931,Plesoi,dj
+74949,Rojiste,dj
+74956,Talpas,dj
+75098,Municipiul Galati,gl
+75114,Sendreni,gl
+75150,Vanatori,gl
+75203,Municipiul Tecuci,gl
+75221,Draganesti,gl
+75258,Munteni,gl
+75338,Oras Beresti,gl
+75356,Beresti-Meria,gl
+75472,Oras Targu Bujor,gl
+75515,Barcea,gl
+75542,Balabanesti,gl
+75613,Balasesti,gl
+75668,Baleni,gl
+75686,Baneasa,gl
+75711,Branistea,gl
+75766,Brahasesti,gl
+75819,Buciumeni,gl
+75864,Cavadinesti,gl
+75917,Certesti,gl
+75953,Corod,gl
+76004,Corni,gl
+76040,Cosmesti,gl
+76111,Costache Negri,gl
+76139,Cuca,gl
+76157,Cudalbi,gl
+76175,Draguseni,gl
+76255,Fartanesti,gl
+76282,Foltesti,gl
+76317,Frumusita,gl
+76353,Fundeni,gl
+76406,Ghidigeni,gl
+76497,Gohor,gl
+76558,Grivita,gl
+76585,Independenta,gl
+76601,Ivesti,gl
+76638,Jorasti,gl
+76674,Liesti,gl
+76692,Matca,gl
+76718,Mastacani,gl
+76745,Movileni,gl
+76763,Namoloasa,gl
+76807,Nicoresti,gl
+76932,Oancea,gl
+76969,Pechea,gl
+76996,Piscu,gl
+77028,Priponesti,gl
+77082,Rediu,gl
+77126,Scanteiesti,gl
+77153,Schela,gl
+77180,Slobozia Conachi,gl
+77224,Smardan,gl
+77260,Smulti,gl
+77288,Suceveni,gl
+77313,Tudor Vladimirescu,gl
+77331,Tulucesti,gl
+77377,Tepu,gl
+77402,Umbraresti,gl
+77475,Valea Marului,gl
+77509,Varlezi,gl
+77536,Vladesti,gl
+77561,Radesti,gl
+77579,Negrilesti,gl
+77587,Poiana,gl
+77595,Cuza Voda,gl
+77601,Suhurlui,gl
+77812,Municipiul Targu Jiu,gj
+77910,Balesti,gj
+78016,Dragutesti,gj
+78089,Turcinesti,gj
+78141,Municipiul Motru,gj
+78258,Oras Novaci,gj
+78329,Oras Targu Carbunesti,gj
+78454,Oras Ticleni,gj
+78472,Albeni,gj
+78542,Alimpesti,gj
+78604,Aninoasa,gj
+78668,Arcani,gj
+78711,Baia De Fier,gj
+78748,Balanesti,gj
+78828,Barbatesti,gj
+78873,Bengesti-Ciocadia,gj
+78926,Berlesti,gj
+79004,Balteni,gj
+79077,Bolbosi,gj
+79157,Borascu,gj
+79237,Branesti,gj
+79308,Oras Bumbesti-Jiu,gj
+79362,Bumbesti-Pitic,gj
+79406,Bustuchin,gj
+79497,Capreni,gj
+79585,Catunele,gj
+79656,Ciuperceni,gj
+79736,Calnic,gj
+79834,Crasna,gj
+79932,Cruset,gj
+80043,Danciulesti,gj
+80123,Danesti,gj
+80249,Dragotesti,gj
+80285,Farcasesti,gj
+80365,Glogova,gj
+80427,Godinesti,gj
+80506,Hurezani,gj
+80560,Ionesti,gj
+80613,Jupanesti,gj
+80677,Lelesti,gj
+80711,Licurici,gj
+80766,Logresti,gj
+80846,Matasari,gj
+80908,Musetesti,gj
+80980,Negomir,gj
+81095,Pades,gj
+81184,Pestisani,gj
+81264,Plopsoru,gj
+81380,Polovragi,gj
+81415,Prigoria,gj
+81497,Rosia De Amaradia,gj
+81576,Runcu,gj
+81656,Samarinesti,gj
+81754,Sacelu,gj
+81816,Saulesti,gj
+81861,Scoarta,gj
+81987,Schela,gj
+82047,Slivilesti,gj
+82136,Stanesti,gj
+82243,Stejari,gj
+82314,Stoina,gj
+82396,Telesti,gj
+82430,Oras Tismana,gj
+82555,Turburea,gj
+82617,Oras Turceni,gj
+82680,Tantareni,gj
+82733,Urdari,gj
+82779,Vagiulesti,gj
+82831,Vladimir,gj
+82895,Oras Rovinari,gj
+83133,Municipiul Odorheiu Secuiesc,hr
+83151,Bradesti,hr
+83197,Feliceni,hr
+83320,Municipiul Miercurea Ciuc,hr
+83375,Pauleni-Ciuc,hr
+83428,Oras Baile Tusnad,hr
+83464,Oras Balan,hr
+83491,Oras Borsec,hr
+83525,Oras Cristuru Secuiesc,hr
+83561,Municipiul Gheorgheni,hr
+83632,Municipiul Toplita,hr
+83749,Oras Vlahita,hr
+83785,Atid,hr
+83847,Avramesti,hr
+83936,Bilbor,hr
+83963,Capalnita,hr
+83981,Ciucsangeorgiu,hr
+84086,Ciumani,hr
+84102,Carta,hr
+84148,Corbu,hr
+84175,Corund,hr
+84237,Danesti,hr
+84264,Dealu,hr
+84344,Ditrau,hr
+84380,Darjiu,hr
+84415,Frumoasa,hr
+84460,Galautas,hr
+84558,Joseni,hr
+84594,Lazarea,hr
+84629,Lueta,hr
+84656,Lunca De Jos,hr
+84754,Lunca De Sus,hr
+84825,Lupeni,hr
+84923,Martinis,hr
+85056,Meresti,hr
+85074,Mihaileni,hr
+85127,Mugeni,hr
+85243,Ocland,hr
+85289,Plaiesii De Jos,hr
+85341,Praid,hr
+85412,Remetea,hr
+85467,Sacel,hr
+85528,Sarmas,hr
+85582,Secuieni,hr
+85626,Siculeni,hr
+85680,Sancraieni,hr
+85760,Sandominic,hr
+85788,Sanmartin,hr
+85840,Sansimion,hr
+85877,Subcetate,hr
+85920,Suseni,hr
+85984,Simonesti,hr
+86133,Tulghes,hr
+86188,Tusnad,hr
+86222,Ulies,hr
+86311,Varsag,hr
+86339,Voslabeni,hr
+86366,Zetea,hr
+86438,Madaras,hr
+86446,Cozmeni,hr
+86453,Tomesti,hr
+86461,Ciceu,hr
+86479,Leliceni,hr
+86487,Porumbeni,hr
+86495,Racu,hr
+86501,Satu Mare,hr
+86519,Santimbru,hr
+86687,Municipiul Deva,hd
+86749,Carjiti,hd
+86810,Municipiul Hunedoara,hd
+86883,Ghelari,hd
+86936,Teliucu Inferior,hd
+86990,Municipiul Petrosani,hd
+87059,Municipiul Lupeni,hd
+87077,Oras Petrila,hd
+87139,Oras Uricani,hd
+87175,Municipiul Vulcan,hd
+87219,Oras Aninoasa,hd
+87246,Banita,hd
+87291,Municipiul Brad,hd
+87362,Criscior,hd
+87424,Oras Calan,hd
+87576,Oras Hateg,hd
+87638,Municipiul Orastie,hd
+87665,Oras Simeria,hd
+87745,Baia De Cris,hd
+87843,Balsa,hd
+87996,Baru,hd
+88047,Bacia,hd
+88092,Baita,hd
+88216,Batrana,hd
+88261,Beriu,hd
+88350,Blajeni,hd
+88449,Bosorod,hd
+88546,Branisca,hd
+88644,Bretea Romana,hd
+88788,Buces,hd
+88868,Bucuresci,hd
+88920,Bulzestii De Sus,hd
+89026,Bunila,hd
+89080,Burjuc,hd
+89151,Cerbal,hd
+89240,Certeju De Sus,hd
+89348,Densus,hd
+89428,Dobra,hd
+89561,Oras Geoagiu,hd
+89687,Gurasada,hd
+89801,Harau,hd
+89856,Ilia,hd
+89954,Lapugiu De Jos,hd
+90066,Lelese,hd
+90119,Lunca Cernii De Jos,hd
+90208,Luncoiu De Jos,hd
+90262,Martinesti,hd
+90342,Orastioara De Sus,hd
+90431,Pestisu Mic,hd
+90538,Pui,hd
+90663,Rapoltu Mare,hd
+90725,Rachitova,hd
+90805,Ribita,hd
+90878,Rau De Mori,hd
+90994,Romos,hd
+91054,Sarmizegetusa,hd
+91116,Salasu De Sus,hd
+91232,Santamaria-Orlea,hd
+91330,Soimus,hd
+91447,Tomesti,hd
+91535,Toplita,hd
+91624,Totesti,hd
+91688,Turdas,hd
+91731,General Berthelot,hd
+91795,Vata De Jos,hd
+91937,Valisoara,hd
+91982,Vetel,hd
+92097,Vorta,hd
+92177,Zam,hd
+92569,Municipiul Calarasi,cl
+92587,Modelu,cl
+92658,Municipiul Slobozia,il
+92701,Municipiul Fetesti,il
+92765,Oras Tandarei,il
+92783,Albesti,il
+92836,Oras Amara,il
+92872,Andrasesti,il
+92907,Balaciu,il
+92961,Borcea,cl
+92989,Bordusani,il
+93021,Bucu,il
+93067,Oras Cazanesti,il
+93085,Ciocanesti,cl
+93101,Ciochina,il
+93156,Ciulnita,il
+93209,Cocora,il
+93236,Cosambesti,il
+93281,Cuza Voda,cl
+93325,Dichiseni,cl
+93370,Dor Marunt,cl
+93441,Dorobantu,cl
+93487,Dragalina,cl
+93539,Dragos Voda,cl
+93575,Facaeni,il
+93600,Gheorghe Doja,il
+93628,Gheorghe Lazar,il
+93646,Giurgeni,il
+93664,Gradistea,cl
+93717,Grindu,il
+93735,Grivita,il
+93771,Independenta,cl
+93815,Jegalia,cl
+93851,Lehliu,cl
+93888,Oras Lehliu Gara,cl
+93931,Lupsanu,cl
+93995,Mihail Kogalniceanu,il
+94045,Milosesti,il
+94081,Movila,il
+94107,Munteni-Buzau,il
+94125,Alexandru Odobescu,cl
+94161,Perieti,il
+94223,Perisoru,cl
+94269,Reviga,il
+94312,Roseti,cl
+94330,Salcioara,il
+94376,Saveni,il
+94429,Scanteia,il
+94456,Sfantu Gheorghe,il
+94492,Stelnica,il
+94535,Suditi,il
+94562,Stefan Cel Mare,cl
+94580,Stefan Voda,cl
+94606,Ulmu,cl
+94651,Unirea,cl
+94688,Valea Ciorii,il
+94731,Valcelele,cl
+94768,Vlad Tepes,cl
+94795,Vladeni,il
+95060,Municipiul Iasi,is
+95088,Barnova,is
+95159,Holboca,is
+95239,Rediu,is
+95293,Tomesti,is
+95355,Oras Harlau,is
+95391,Municipiul Pascani,is
+95471,Oras Targu Frumos,is
+95499,Ion Neculce,is
+95612,Alexandru I. Cuza,is
+95667,Andrieseni,is
+95747,Aroneanu,is
+95792,Baltati,is
+95872,Belcesti,is
+95943,Bivolari,is
+96003,Ungheni,is
+96058,Braesti,is
+96110,Butea,is
+96147,Ceplenita,is
+96192,Ciortesti,is
+96254,Ciurea,is
+96334,Coarnele Caprei,is
+96370,Comarna,is
+96423,Costuleni,is
+96478,Cotnari,is
+96593,Cozmesti,is
+96637,Cristesti,is
+96664,Cucuteni,is
+96717,Dagata,is
+96815,Deleni,is
+96888,Dobrovat,is
+96904,Dolhesti,is
+96940,Dumesti,is
+97009,Erbiceni,is
+97063,Focuri,is
+97090,Golaiesti,is
+97189,Gorban,is
+97241,Grajduri,is
+97321,Gropnita,is
+97394,Grozesti,is
+97438,Halaucesti,is
+97465,Helesteni,is
+97517,Horlesti,is
+97553,Ipatele,is
+97606,Lespezi,is
+97679,Letcani,is
+97722,Lungani,is
+97777,Madarjac,is
+97811,Mircesti,is
+97875,Mironeasa,is
+97919,Miroslava,is
+98051,Miroslovesti,is
+98113,Mogosesti,is
+98168,Mogosesti-Siret,is
+98202,Mosna,is
+98220,Motca,is
+98257,Movileni,is
+98300,Oteleni,is
+98337,Plugari,is
+98373,Oras Podu Iloaiei,is
+98435,Popesti,is
+98505,Popricani,is
+98603,Prisacani,is
+98649,Probota,is
+98685,Raducaneni,is
+98738,Romanesti,is
+98774,Ruginoasa,is
+98827,Schitu Duca,is
+98916,Scanteia,is
+98998,Scobinti,is
+99058,Sinesti,is
+99101,Siretel,is
+99165,Stolniceni-Prajescu,is
+99209,Strunga,is
+99290,Scheia,is
+99370,Sipote,is
+99441,Tansa,is
+99478,Tatarusi,is
+99539,Todiresti,is
+99600,Trifesti,is
+99673,Tibana,is
+99780,Tibanesti,is
+99879,Tiganasi,is
+99922,Tutora,is
+99968,Valea Seaca,is
+100004,Victoria,is
+100086,Vanatori,is
+100148,Vladeni,is
+100219,Voinesti,is
+100273,Bals,is
+100282,Costesti,is
+100308,Draguseni,is
+100317,Fantanele,is
+100326,Harmanesti,is
+100335,Rachiteni,is
+100344,Roscani,is
+100353,Valea Lupului,is
+100362,Ciohorani,is
+100521,Municipiul Giurgiu,gr
+100549,Slobozia,gr
+100576,Oras Buftea,if
+100610,Municipiul Oltenita,cl
+100638,Mitreni,cl
+100683,Municipiul Urziceni,il
+100709,Ciocarlia,il
+100736,Manasia,il
+100754,Adancata,il
+100781,Adunatii-Copaceni,gr
+100834,Afumati,if
+100852,Alexeni,il
+100870,Armasesti,il
+100923,Axintele,il
+100969,Balotesti,if
+101001,Baneasa,gr
+101056,Barcanesti,il
+101083,Belciugatele,cl
+101145,Berceni,if
+101163,Bolintin-Deal,gr
+101190,Oras Bolintin-Vale,gr
+101243,Brazii,il
+101298,Branesti,if
+101341,Brezoaele,db
+101378,Bucsani,gr
+101458,Oras Budesti,cl
+101519,Bulbucata,gr
+101564,Butimanu,db
+101617,Buturugeni,gr
+101662,Calugareni,gr
+101724,Cascioarele,cl
+101742,Cernica,if
+101804,Chirnogi,cl
+101822,Chiselet,cl
+101840,Ciocanesti,db
+101902,Ciolpani,if
+101957,Ciorogarla,if
+101984,Clejani,gr
+102035,Clinceni,if
+102071,Colibasi,gr
+102106,Comana,gr
+102160,Corbeanca,if
+102213,Cornetu,if
+102240,Cosereni,il
+102286,Crevedia,db
+102348,Crevedia Mare,gr
+102419,Curcani,cl
+102446,Daia,gr
+102473,Dascalu,if
+102525,Darasti-Ilfov,if
+102543,1 Decembrie,if
+102570,Domnesti,if
+102605,Dragomiresti-Vale,if
+102641,Dragoesti,il
+102703,Dridu,il
+102749,Oras Fierbinti-Targ,il
+102794,Floresti-Stoenesti,gr
+102838,Frasinet,cl
+102909,Fratesti,gr
+102945,Frumusani,cl
+103014,Fundeni,cl
+103032,Oras Fundulea,cl
+103087,Gaiseni,gr
+103130,Ganeasa,if
+103194,Gaujani,gr
+103238,Ghimpati,gr
+103283,Garbovi,il
+103309,Gogosari,gr
+103354,Gostinu,gr
+103372,Gostinari,gr
+103407,Gradinari,gr
+103443,Gradistea,if
+103470,Greaca,gr
+103513,Gruiu,if
+103568,Gurbanesti,cl
+103639,Hotarele,gr
+103693,Iepuresti,gr
+103764,Ileana,cl
+103862,Ion Roata,il
+103899,Izvoarele,gr
+103960,Jilavele,il
+103997,Joita,gr
+104047,Letca Noua,gr
+104083,Luica,cl
+104118,Mihai Bravu,gr
+104136,Oras Mihailesti,gr
+104181,Manastirea,cl
+104225,Marsa,gr
+104243,Moara Vlasiei,if
+104270,Movilita,il
+104323,Nana,cl
+104341,Nicolae Balcescu,cl
+104387,Niculesti,db
+104421,Nuci,if
+104485,Ogrezeni,gr
+104519,Oinacu,gr
+104546,Peris,if
+104582,Petrachioaia,if
+104635,Plataresti,cl
+104680,Prundu,gr
+104715,Putineiu,gr
+104751,Radovanu,cl
+104788,Rasuceni,gr
+104831,Roata De Jos,gr
+104886,Sarulesti,cl
+104975,Schitu,gr
+105026,Sinesti,il
+105106,Singureni,gr
+105142,Slobozia Moara,db
+105160,Snagov,if
+105222,Sohatu,cl
+105259,Spantov,cl
+105295,Stanesti,gr
+105348,Stoenesti,gr
+105384,Soldanu,cl
+105419,Stefanestii De Jos,if
+105455,Tamadau Mare,cl
+105534,Tartasesti,db
+105570,Tunari,if
+105605,Ulmeni,cl
+105623,Ulmi,gr
+105712,Valea Argovei,cl
+105776,Valea Dragului,gr
+105794,Valea Macrisului,il
+105829,Vasilati,cl
+105874,Varasti,gr
+105909,Vedea,gr
+105936,Vidra,if
+105972,Vanatorii Mici,gr
+106318,Municipiul Baia Mare,mm
+106363,Grosi,mm
+106407,Recea,mm
+106461,Oras Tautii-Magheraus,mm
+106559,Municipiul Sighetu Marmatiei,mm
+106620,Sarasau,mm
+106648,Vadu Izei,mm
+106684,Oras Baia Sprie,mm
+106746,Oras Borsa,mm
+106782,Oras Cavnic,mm
+106817,Oras Targu Lapus,mm
+106979,Oras Viseu De Sus,mm
+107001,Ardusat,mm
+107047,Arinis,mm
+107083,Asuaju De Sus,mm
+107118,Baita De Sub Codru,mm
+107154,Baiut,mm
+107190,Basesti,mm
+107234,Bicaz,mm
+107270,Bistra,mm
+107314,Barsana,mm
+107350,Bocicoiu Mare,mm
+107403,Bogdan Voda,mm
+107430,Boiu Mare,mm
+107485,Botiza,mm
+107519,Budesti,mm
+107546,Calinesti,mm
+107582,Cernesti,mm
+107662,Cicarlau,mm
+107715,Campulung La Tisa,mm
+107733,Copalnic-Manastur,mm
+107868,Coroieni,mm
+107920,Cupseni,mm
+107975,Desesti,mm
+108017,Oras Dragomiresti,mm
+108035,Dumbravita,mm
+108106,Farcasa,mm
+108151,Giulesti,mm
+108204,Ieud,mm
+108222,Lapus,mm
+108240,Leordina,mm
+108268,Miresu Mare,mm
+108348,Moisei,mm
+108366,Oarta De Jos,mm
+108400,Ocna Sugatag,mm
+108455,Petrova,mm
+108473,Poienile De Sub Munte,mm
+108491,Remetea Chioarului,mm
+108552,Remeti,mm
+108598,Repedea,mm
+108614,Rona De Jos,mm
+108632,Rona De Sus,mm
+108669,Rozavlea,mm
+108696,Ruscova,mm
+108712,Satulung,mm
+108794,Sacalaseni,mm
+108874,Sacel,mm
+108892,Oras Salistea De Sus,mm
+108918,Salsig,mm
+108945,Sapanta,mm
+108963,Oras Seini,mm
+109005,Stramtura,mm
+109041,Suciu De Sus,mm
+109096,Sisesti,mm
+109176,Oras Somcuta Mare,mm
+109265,Oras Ulmeni,mm
+109354,Valea Chioarului,mm
+109425,Vima Mica,mm
+109504,Viseu De Jos,mm
+109773,Municipiul Drobeta-Turnu Severin,mh
+109826,Simian,mh
+109924,Oras Baia De Arama,mh
+110027,Obarsia-Closani,mh
+110063,Municipiul Orsova,mh
+110116,Oras Strehaia,mh
+110232,Oras Vanju Mare,mh
+110296,Bala,mh
+110456,Balta,mh
+110535,Balacita,mh
+110571,Bacles,mh
+110688,Balvanesti,mh
+110740,Breznita-Motru,mh
+110820,Breznita-Ocol,mh
+110875,Brosteni,mh
+110946,Burila Mare,mh
+111006,Butoiesti,mh
+111097,Cazanesti,mh
+111220,Ciresu,mh
+111275,Corcova,mh
+111417,Corlatel,mh
+111444,Cujmir,mh
+111480,Devesel,mh
+111550,Darvari,mh
+111587,Dumbrava,mh
+111685,Floresti,mh
+111783,Garla Mare,mh
+111818,Godeanu,mh
+111863,Gogosu,mh
+111916,Greci,mh
+111989,Grozesti,mh
+112030,Gruia,mh
+112076,Hinova,mh
+112129,Husnicioara,mh
+112245,Eselnita,mh
+112263,Ilovat,mh
+112334,Ilovita,mh
+112370,Isverna,mh
+112469,Izvoru Barzii,mh
+112548,Jiana,mh
+112600,Livezile,mh
+112664,Malovat,mh
+112744,Obarsia De Camp,mh
+112771,Oprisor,mh
+112806,Padina,mh
+112879,Patulele,mh
+112904,Dubova,mh
+112959,Podeni,mh
+112995,Ponoarele,mh
+113153,Poroina Mare,mh
+113206,Pristol,mh
+113233,Prunisor,mh
+113395,Punghina,mh
+113466,Rogova,mh
+113493,Salcia,mh
+113518,Stangaceaua,mh
+113607,Svinita,mh
+113625,Sisesti,mh
+113698,Sovarna,mh
+113732,Tamna,mh
+113849,Vanatori,mh
+113894,Vanjulet,mh
+113929,Vladaia,mh
+113974,Voloiac,mh
+114060,Branistea,mh
+114079,Vrata,mh
+114319,Municipiul Targu Mures,ms
+114355,Cristesti,ms
+114382,Sancraiu De Mures,ms
+114417,Sangeorgiu De Mures,ms
+114453,Santana De Mures,ms
+114514,Municipiul Sighisoara,ms
+114603,Albesti,ms
+114710,Oras Ludus,ms
+114809,Municipiul Reghin,ms
+114854,Oras Sovata,ms
+114925,Municipiul Tarnaveni,ms
+114970,Acatari,ms
+115076,Adamus,ms
+115147,Alunis,ms
+115183,Apold,ms
+115236,Atintis,ms
+115307,Bahnea,ms
+115389,Band,ms
+115520,Batos,ms
+115575,Bagaciu,ms
+115600,Bala,ms
+115637,Balauseri,ms
+115708,Beica De Jos,ms
+115771,Bichis,ms
+115824,Bogata,ms
+115851,Breaza,ms
+115897,Brancovenesti,ms
+115959,Ceuasu De Campie,ms
+116046,Chetani,ms
+116126,Chiheru De Jos,ms
+116171,Coroisanmartin,ms
+116224,Cozma,ms
+116288,Craciunesti,ms
+116340,Craiesti,ms
+116395,Cucerdea,ms
+116439,Cuci,ms
+116493,Danes,ms
+116545,Deda,ms
+116590,Eremitu,ms
+116652,Ernei,ms
+116723,Faragau,ms
+116796,Fantanele,ms
+116867,Galesti,ms
+116938,Ganesti,ms
+116983,Gheorghe Doja,ms
+117042,Ghindari,ms
+117113,Glodeni,ms
+117177,Gornesti,ms
+117275,Grebenisu De Campie,ms
+117319,Gurghiu,ms
+117426,Hodac,ms
+117505,Hodosa,ms
+117550,Ibanesti,ms
+117667,Iclanzel,ms
+117783,Ideciu De Jos,ms
+117827,Oras Iernut,ms
+117925,Livezeni,ms
+117998,Lunca,ms
+118058,Lunca Bradului,ms
+118094,Magherani,ms
+118209,Mica,ms
+118281,Oras Miercurea Nirajului,ms
+118370,Mihesu De Campie,ms
+118469,Nades,ms
+118511,Neaua,ms
+118575,Ogra,ms
+118637,Papiu Ilarian,ms
+118691,Panet,ms
+118753,Pasareni,ms
+118799,Petelea,ms
+118824,Pogaceaua,ms
+118931,Rastolita,ms
+118995,Raciu,ms
+119153,Rusii-Munti,ms
+119206,Saschiz,ms
+119242,Oras Sarmasu,ms
+119331,Oras Sangeorgiu De Padure,ms
+119386,Sanger,ms
+119466,Sanpaul,ms
+119527,Sanpetru De Campie,ms
+119590,Solovastru,ms
+119625,Stanceni,ms
+119661,Suplac,ms
+119723,Suseni,ms
+119750,Saulia,ms
+119803,Sincai,ms
+119858,Taureni,ms
+119894,Oras Ungheni,ms
+119974,Valea Larga,ms
+120076,Vargata,ms
+120138,Vatava,ms
+120174,Vetca,ms
+120218,Viisoara,ms
+120254,Vanatori,ms
+120316,Voivodeni,ms
+120343,Zagar,ms
+120370,Zau De Campie,ms
+120478,Chibed,ms
+120487,Corunca,ms
+120496,Sarateni,ms
+120502,Madaras,ms
+120511,Bereni,ms
+120726,Municipiul Piatra-Neamt,nt
+120771,Dumbrava Rosie,nt
+120824,Savinesti,nt
+120860,Municipiul Roman,nt
+120888,Cordun,nt
+120922,Horia,nt
+120968,Oras Bicaz,nt
+121055,Oras Targu Neamt,nt
+121108,Agapia,nt
+121153,Bahna,nt
+121242,Baltatesti,nt
+121297,Bicaz-Chei,nt
+121340,Bicazu Ardelean,nt
+121386,Bira,nt
+121466,Bargauani,nt
+121607,Bodesti,nt
+121652,Borca,nt
+121732,Borlesti,nt
+121796,Botesti,nt
+121876,Bozieni,nt
+121938,Brusturi,nt
+122025,Ceahlau,nt
+122061,Candesti,nt
+122132,Costisa,nt
+122187,Cracaoani,nt
+122249,Damuc,nt
+122285,Dobreni,nt
+122347,Doljesti,nt
+122392,Dragomiresti,nt
+122463,Dulcesti,nt
+122551,Farcasa,nt
+122613,Faurei,nt
+122668,Gheraesti,nt
+122702,Girov,nt
+122828,Garcina,nt
+122864,Grinties,nt
+122908,Grumazesti,nt
+122953,Hangu,nt
+123013,Icusesti,nt
+123102,Ion Creanga,nt
+123175,Margineni,nt
+123228,Moldoveni,nt
+123255,Oniceni,nt
+123371,Pastraveni,nt
+123424,Petricani,nt
+123479,Piatra Soimului,nt
+123521,Pipirig,nt
+123601,Pangarati,nt
+123674,Podoleni,nt
+123709,Poienari,nt
+123790,Poiana Teiului,nt
+123914,Raucesti,nt
+123969,Razboieni,nt
+124028,Rediu,nt
+124073,Romani,nt
+124117,Oras Roznov,nt
+124153,Sagna,nt
+124206,Sabaoani,nt
+124233,Secuieni,nt
+124331,Stanita,nt
+124411,Stefan Cel Mare,nt
+124493,Tarcau,nt
+124563,Tasca,nt
+124616,Tazlau,nt
+124634,Tamaseni,nt
+124661,Timisesti,nt
+124723,Trifesti,nt
+124750,Tupilati,nt
+124803,Tibucani,nt
+124849,Urecheni,nt
+124885,Valea Ursului,nt
+124938,Alexandru Cel Bun,nt
+125016,Vanatori-Neamt,nt
+125061,Zanesti,nt
+125098,Dochia,nt
+125105,Ruginoasa,nt
+125114,Ghindaoani,nt
+125123,Valeni,nt
+125132,Draganesti,nt
+125141,Pancesti,nt
+125150,Gadinti,nt
+125169,Negresti,nt
+125178,Boghicea,nt
+125347,Municipiul Slatina,ot
+125374,Slatioara,ot
+125418,Oras Bals,ot
+125472,Municipiul Caracal,ot
+125490,Draghiceni,ot
+125542,Oras Corabia,ot
+125588,Garcov,ot
+125622,Oras Draganesti-Olt,ot
+125659,Babiciu,ot
+125677,Baldovinesti,ot
+125757,Barasti,ot
+125846,Barza,ot
+125873,Bobicesti,ot
+125962,Brastavatu,ot
+125999,Brebeni,ot
+126022,Brancoveni,ot
+126077,Bucinisu,ot
+126102,Cezieni,ot
+126148,Cilieni,ot
+126166,Carlogani,ot
+126228,Colonesti,ot
+126326,Corbu,ot
+126380,Coteana,ot
+126406,Crampoia,ot
+126433,Curtisoara,ot
+126503,Cungrea,ot
+126585,Daneasa,ot
+126647,Deveselu,ot
+126674,Dobretu,ot
+126718,Dobrosloveni,ot
+126772,Dobroteasa,ot
+126825,Dobrun,ot
+126905,Fagetelu,ot
+126978,Falcoiu,ot
+127019,Farcasele,ot
+127064,Ganeasa,ot
+127126,Giuvarasti,ot
+127144,Gostavatu,ot
+127171,Gradinari,ot
+127224,Grojdibodu,ot
+127251,Ianca,ot
+127288,Iancu Jianu,ot
+127322,Icoana,ot
+127368,Izbiceni,ot
+127386,Izvoarele,ot
+127411,Leleasca,ot
+127493,Maruntei,ot
+127536,Mihaesti,ot
+127563,Milcov,ot
+127625,Morunglav,ot
+127689,Movileni,ot
+127714,Nicolae Titulescu,ot
+127750,Obarsia,ot
+127812,Oboga,ot
+127858,Oporelu,ot
+127901,Optasi-Magura,ot
+127938,Orlea,ot
+127983,Osica De Sus,ot
+128052,Perieti,ot
+128105,Oras Piatra-Olt,ot
+128178,Parscoveni,ot
+128221,Plesoiu,ot
+128301,Poboru,ot
+128374,Oras Potcoava,ot
+128436,Priseaca,ot
+128472,Radomiresti,ot
+128524,Redea,ot
+128560,Rotunda,ot
+128588,Rusanesti,ot
+128613,Scarisoara,ot
+128659,Schitu,ot
+128711,Oras Scornicesti,ot
+128864,Seaca,ot
+128882,Samburesti,ot
+128962,Spineni,ot
+129040,Sprancenata,ot
+129095,Stoenesti,ot
+129111,Stoicanesti,ot
+129139,Strejesti,ot
+129184,Studina,ot
+129246,Serbanesti,ot
+129282,Stefan Cel Mare,ot
+129317,Tatulesti,ot
+129380,Teslui,ot
+129460,Tia Mare,ot
+129503,Topana,ot
+129567,Traian,ot
+129585,Tufeni,ot
+129629,Urzica,ot
+129656,Valea Mare,ot
+129718,Vadastra,ot
+129745,Vadastrita,ot
+129763,Valeni,ot
+129816,Verguleasa,ot
+129898,Visina,ot
+129914,Vitomiresti,ot
+129987,Valcele,ot
+130026,Vladila,ot
+130062,Voineasa,ot
+130124,Vulpeni,ot
+130231,Vulturesti,ot
+130286,Balteni,ot
+130295,Calui,ot
+130302,Gavanesti,ot
+130311,Ghimpeteni,ot
+130320,Gradinile,ot
+130339,Gura Padinii,ot
+130348,Ipotesti,ot
+130357,Osica De Jos,ot
+130366,Sarbii - Magura,ot
+130375,Visina Noua,ot
+130384,Soparlita,ot
+130534,Municipiul Ploiesti,ph
+130552,Barcanesti,ph
+130614,Berceni,ph
+130678,Blejoi,ph
+130712,Brazi,ph
+130785,Bucov,ph
+130847,Paulesti,ph
+130892,Targsoru Vechi,ph
+130954,Oras Azuga,ph
+130981,Oras Baicoi,ph
+131069,Oras Boldesti-Scaeni,ph
+131103,Oras Breaza,ph
+131210,Oras Busteni,ph
+131256,Municipiul Campina,ph
+131274,Poiana Campina,ph
+131336,Oras Comarnic,ph
+131407,Oras Mizil,ph
+131443,Oras Plopeni,ph
+131461,Dumbravesti,ph
+131540,Oras Sinaia,ph
+131577,Oras Slanic,ph
+131620,Oras Urlati,ph
+131817,Oras Valenii De Munte,ph
+131835,Gura Vitioarei,ph
+131899,Adunati,ph
+131933,Albesti-Paleologu,ph
+131988,Alunis,ph
+132011,Apostolache,ph
+132075,Aricestii Rahtivani,ph
+132137,Aricestii Zeletin,ph
+132164,Baba Ana,ph
+132226,Balta Doamnei,ph
+132271,Baltesti,ph
+132315,Banesti,ph
+132342,Bertea,ph
+132379,Boldesti-Gradistea,ph
+132404,Brebu,ph
+132459,Calugareni,ph
+132486,Carbunesti,ph
+132510,Ceptura,ph
+132574,Cerasu,ph
+132645,Chiojdeanca,ph
+132681,Ciorani,ph
+132716,Cocorastii Mislii,ph
+132752,Colceag,ph
+132805,Cornu,ph
+132841,Cosminele,ph
+132896,Drajna,ph
+133018,Draganesti,ph
+133090,Dumbrava,ph
+133161,Filipestii De Padure,ph
+133214,Filipestii De Targ,ph
+133278,Fantanele,ph
+133330,Floresti,ph
+133394,Fulga,ph
+133429,Gherghita,ph
+133508,Gorgota,ph
+133562,Gornet,ph
+133615,Gornet-Cricov,ph
+133688,Gura Vadului,ph
+133722,Iordacheanu,ph
+133795,Izvoarele,ph
+133866,Jugureni,ph
+133919,Lapos,ph
+133964,Lipanesti,ph
+134014,Magurele,ph
+134050,Magureni,ph
+134096,Maneciu,ph
+134194,Manesti,ph
+134336,Pacureti,ph
+134390,Plopu,ph
+134443,Podenii Noi,ph
+134559,Poienarii Burchii,ph
+134648,Posesti,ph
+134755,Predeal-Sarari,ph
+134853,Provita De Jos,ph
+134899,Provita De Sus,ph
+134942,Puchenii Mari,ph
+135020,Rafov,ph
+135128,Salcia,ph
+135146,Salciile,ph
+135164,Scorteni,ph
+135226,Secaria,ph
+135244,Sangeru,ph
+135315,Starchiojd,ph
+135404,Surani,ph
+135431,Sirna,ph
+135501,Soimari,ph
+135547,Sotrile,ph
+135618,Stefesti,ph
+135654,Talea,ph
+135681,Tataru,ph
+135725,Teisani,ph
+135789,Telega,ph
+135850,Tinosu,ph
+135896,Tomsani,ph
+135949,Valea Calugareasca,ph
+136107,Valea Doftanei,ph
+136134,Varbilau,ph
+136198,Valcanesti,ph
+136241,Cocorastii Colt,ph
+136250,Olari,ph
+136269,Vadu Sapat,ph
+136278,Batrani,ph
+136483,Municipiul Satu Mare,sm
+136526,Municipiul Carei,sm
+136553,Capleni,sm
+136599,Oras Negresti-Oas,sm
+136642,Oras Tasnad,sm
+136713,Acas,sm
+136768,Andrid,sm
+136802,Apa,sm
+136848,Oras Ardud,sm
+136919,Batarci,sm
+136964,Beltiug,sm
+137032,Berveni,sm
+137069,Bixad,sm
+137103,Barsau,sm
+137130,Bogdand,sm
+137185,Botiz,sm
+137229,Calinesti-Oas,sm
+137274,Camarzana,sm
+137292,Cauas,sm
+137363,Cehal,sm
+137407,Certeze,sm
+137443,Craidorolt,sm
+137504,Crucisor,sm
+137540,Culciu,sm
+137611,Doba,sm
+137675,Dorolt,sm
+137728,Foieni,sm
+137746,Gherta Mica,sm
+137764,Halmeu,sm
+137844,Hodod,sm
+137899,Homoroade,sm
+137960,Lazuri,sm
+138039,Oras Livada,sm
+138084,Mediesu Aurit,sm
+138164,Micula,sm
+138208,Moftin,sm
+138280,Odoreu,sm
+138351,Orasu Nou,sm
+138431,Paulesti,sm
+138501,Petresti,sm
+138538,Pir,sm
+138574,Piscolt,sm
+138618,Pomi,sm
+138663,Sanislau,sm
+138734,Santau,sm
+138770,Sacaseni,sm
+138805,Sauca,sm
+138869,Socond,sm
+138921,Supur,sm
+139009,Tarna Mare,sm
+139054,Terebesti,sm
+139107,Tiream,sm
+139143,Tarsolt,sm
+139170,Turt,sm
+139214,Turulung,sm
+139250,Urziceni,sm
+139287,Valea Vinului,sm
+139330,Vama,sm
+139358,Vetis,sm
+139394,Viile Satu Mare,sm
+139704,Municipiul Zalau,sj
+139740,Oras Cehu Silvaniei,sj
+139811,Oras Jibou,sj
+139884,Oras Simleu Silvaniei,sj
+139937,Agrij,sj
+139982,Almasu,sj
+140084,Babeni,sj
+140146,Balan,sj
+140208,Banisor,sj
+140244,Benesat,sj
+140280,Bobota,sj
+140324,Bocsa,sj
+140379,Buciumi,sj
+140440,Camar,sj
+140477,Carastelec,sj
+140501,Chiesd,sj
+140547,Cizer,sj
+140583,Coseiu,sj
+140627,Crasna,sj
+140672,Creaca,sj
+140770,Cristolt,sj
+140823,Criseni,sj
+140869,Cuzaplac,sj
+140958,Dobrin,sj
+141027,Dragu,sj
+141081,Fildu De Jos,sj
+141134,Galgau,sj
+141232,Garbou,sj
+141312,Halmasd,sj
+141376,Hereclean,sj
+141447,Hida,sj
+141535,Horoatu Crasnei,sj
+141580,Ileanda,sj
+141722,Ip,sj
+141786,Letca,sj
+141884,Lozna,sj
+141946,Marca,sj
+142006,Maeriste,sj
+142079,Mesesenii De Jos,sj
+142122,Mirsid,sj
+142177,Napradea,sj
+142239,Nusfalau,sj
+142284,Pericei,sj
+142337,Plopis,sj
+142373,Poiana Blenchii,sj
+142426,Romanasi,sj
+142499,Rus,sj
+142550,Salatig,sj
+142612,Sag,sj
+142676,Sanmihaiu Almasului,sj
+142710,Somes-Odorhei,sj
+142774,Surduc,sj
+142854,Samsud,sj
+142881,Sarmasag,sj
+142952,Valcau De Jos,sj
+143021,Varsolt,sj
+143067,Zalha,sj
+143147,Zimbor,sj
+143450,Municipiul Sibiu,sb
+143487,Cristian,sb
+143502,Poplaca,sb
+143520,Rasinari,sb
+143557,Selimbar,sb
+143619,Municipiul Medias,sb
+143646,Tarnava,sb
+143682,Oras Agnita,sb
+143735,Oras Cisnadie,sb
+143771,Oras Copsa Mica,sb
+143806,Oras Dumbraveni,sb
+143851,Oras Ocna Sibiului,sb
+143888,Altina,sb
+143922,Apoldu De Jos,sb
+143959,Arpasu De Jos,sb
+143995,Atel,sb
+144054,Oras Avrig,sb
+144116,Axente Sever,sb
+144152,Bazna,sb
+144198,Biertan,sb
+144232,Barghis,sb
+144303,Blajel,sb
+144349,Brateiu,sb
+144376,Bradeni,sb
+144410,Bruiu,sb
+144456,Chirpar,sb
+144508,Carta,sb
+144535,Cartisoara,sb
+144553,Darlos,sb
+144599,Gura Raului,sb
+144615,Hoghilag,sb
+144651,Iacobeni,sb
+144713,Jina,sb
+144731,Laslea,sb
+144795,Loamnes,sb
+144866,Ludos,sb
+144893,Marpod,sb
+144928,Oras Miercurea Sibiului,sb
+144964,Merghindeal,sb
+144991,Micasasa,sb
+145042,Mihaileni,sb
+145104,Mosna,sb
+145140,Nocrich,sb
+145202,Orlat,sb
+145220,Pauca,sb
+145275,Poiana Sibiului,sb
+145293,Porumbacu De Jos,sb
+145355,Racovita,sb
+145382,Rau Sadului,sb
+145408,Rosia,sb
+145471,Sadu,sb
+145499,Oras Saliste,sb
+145603,Slimnic,sb
+145667,Seica Mare,sb
+145738,Seica Mica,sb
+145765,Sura Mare,sb
+145792,Sura Mica,sb
+145827,Oras Talmaciu,sb
+145907,Tilisca,sb
+145934,Turnu Rosu,sb
+145961,Valea Viilor,sb
+145998,Vurpar,sb
+146012,Alma,sb
+146021,Boita,sb
+146263,Municipiul Suceava,sv
+146281,Ipotesti,sv
+146325,Mitocu Dragomirnei,sv
+146370,Oras Salcea,sv
+146432,Scheia,sv
+146502,Municipiul Campulung Moldovenesc,sv
+146539,Municipiul Falticeni,sv
+146584,Oras Gura Humorului,sv
+146628,Municipiul Radauti,sv
+146655,Oras Siret,sv
+146708,Oras Solca,sv
+146744,Municipiul Vatra Dornei,sv
+146799,Adancata,sv
+146860,Arbore,sv
+146904,Baia,sv
+146931,Oras Milisauti,sv
+146995,Balcauti,sv
+147036,Bilca,sv
+147054,Bogdanesti,sv
+147072,Boroaia,sv
+147134,Bosanci,sv
+147161,Botosana,sv
+147205,Breaza,sv
+147241,Brodina,sv
+147358,Oras Brosteni,sv
+147465,Bunesti,sv
+147526,Cacica,sv
+147580,Calafindesti,sv
+147633,Oras Cajvana,sv
+147660,Ilisesti,sv
+147713,Carlibaba,sv
+147786,Cornu Luncii,sv
+147884,Crucea,sv
+147937,Darmanesti,sv
+148006,Oras Dolhasca,sv
+148097,Dolhesti,sv
+148131,Dorna-Arini,sv
+148202,Dorna Candrenilor,sv
+148293,Dornesti,sv
+148328,Dragoiesti,sv
+148382,Draguseni,sv
+148426,Dumbraveni,sv
+148453,Fantanele,sv
+148514,Forasti,sv
+148612,Oras Frasin,sv
+148667,Fratautii Noi,sv
+148694,Fratautii Vechi,sv
+148729,Frumosu,sv
+148765,Fundu Moldovei,sv
+148872,Galanesti,sv
+148916,Gramesti,sv
+148970,Granicesti,sv
+149049,Horodniceni,sv
+149101,Horodnic De Jos,sv
+149138,Iacobeni,sv
+149183,Izvoarele Sucevei,sv
+149227,Oras Liteni,sv
+149290,Marginea,sv
+149316,Malini,sv
+149370,Manastirea Humorului,sv
+149414,Moara,sv
+149502,Moldova-Sulita,sv
+149539,Moldovita,sv
+149584,Musenita,sv
+149655,Ostra,sv
+149682,Panaci,sv
+149753,Paltinoasa,sv
+149780,Partestii De Jos,sv
+149833,Patrauti,sv
+149851,Poiana Stampei,sv
+149931,Pojorata,sv
+149968,Preutesti,sv
+150043,Putna,sv
+150070,Radaseni,sv
+150114,Rasca,sv
+150178,Sadova,sv
+150196,Satu Mare,sv
+150221,Siminicea,sv
+150258,Slatina,sv
+150294,Straja,sv
+150310,Stroiesti,sv
+150356,Stulpicani,sv
+150418,Sucevita,sv
+150445,Saru Dornei,sv
+150524,Todiresti,sv
+150588,Udesti,sv
+150702,Ulma,sv
+150766,Vadu Moldovei,sv
+150891,Valea Moldovei,sv
+150935,Vama,sv
+150980,Vatra Moldovitei,sv
+151022,Veresti,sv
+151077,Vicovu De Jos,sv
+151095,Oras Vicovu De Sus,sv
+151120,Volovat,sv
+151157,Vulturesti,sv
+151246,Zamostea,sv
+151344,Zvoristea,sv
+151433,Comanesti,sv
+151442,Iaslovat,sv
+151451,Ciocanesti,sv
+151460,Serbauti,sv
+151479,Horodnic De Sus,sv
+151488,Fantana Mare,sv
+151497,Cosna,sv
+151503,Capu Campului,sv
+151512,Hantesti,sv
+151521,Burla,sv
+151530,Balaceana,sv
+151549,Hartop,sv
+151558,Voitinel,sv
+151567,Ciprian Porumbescu,sv
+151576,Berchisesti,sv
+151585,Poieni-Solca,sv
+151683,Municipiul Turnu Magurele,tr
+151709,Ciuperceni,tr
+151736,Islaz,tr
+151763,Lita,tr
+151790,Municipiul Alexandria,tr
+151816,Nanov,tr
+151834,Poroschia,tr
+151870,Municipiul Rosiori De Vede,tr
+151905,Oras Videle,tr
+151932,Crevenicu,tr
+151978,Oras Zimnicea,tr
+151996,Balaci,tr
+152038,Babaita,tr
+152083,Blejesti,tr
+152127,Bogdana,tr
+152172,Botoroaga,tr
+152234,Bragadiru,tr
+152252,Branceni,tr
+152270,Bujoreni,tr
+152314,Bujoru,tr
+152332,Buzescu,tr
+152350,Calinesti,tr
+152412,Calmatuiu,tr
+152467,Calmatuiu De Sus,tr
+152500,Cervenia,tr
+152528,Ciolanesti,tr
+152564,Contesti,tr
+152582,Cosmesti,tr
+152617,Crangeni,tr
+152662,Crangu,tr
+152724,Didesti,tr
+152760,Dobrotesti,tr
+152797,Dracsenei,tr
+152868,Draganesti De Vede,tr
+152902,Draganesti-Vlasca,tr
+152948,Furculesti,tr
+152993,Frumoasa,tr
+153026,Galateni,tr
+153062,Gratia,tr
+153106,Izvoarele,tr
+153124,Lisa,tr
+153151,Lunca,tr
+153204,Mavrodin,tr
+153240,Magura,tr
+153277,Maldaeni,tr
+153295,Mereni,tr
+153339,Marzanesti,tr
+153384,Mosteni,tr
+153400,Nasturelu,tr
+153437,Necsesti,tr
+153473,Olteni,tr
+153507,Orbeasca,tr
+153543,Peretu,tr
+153561,Piatra,tr
+153589,Pietrosani,tr
+153605,Plosca,tr
+153623,Plopii-Slavitesti,tr
+153696,Poeni,tr
+153776,Vitanesti,tr
+153829,Putineiu,tr
+153865,Radoiesti,tr
+153909,Rasmiresti,tr
+153936,Salcia,tr
+153972,Saceni,tr
+154013,Scrioastea,tr
+154068,Scurtu Mare,tr
+154139,Seaca,tr
+154166,Sfintesti,tr
+154184,Segarcea-Vale,tr
+154228,Silistea,tr
+154282,Silistea-Gumesti,tr
+154308,Sarbeni,tr
+154344,Slobozia Mandra,tr
+154380,Smardioasa,tr
+154415,Stejaru,tr
+154460,Suhaia,tr
+154497,Storobaneasa,tr
+154521,Talpa,tr
+154585,Tatarastii De Jos,tr
+154665,Tatarastii De Sus,tr
+154709,Toporu,gr
+154736,Traian,tr
+154754,Trivalea-Mosteni,tr
+154790,Troianul,tr
+154834,Tiganesti,tr
+154852,Vedea,tr
+154914,Viisoara,tr
+154932,Vartoape,tr
+154978,Zambreasca,tr
+154996,Nenciulesti,tr
+155083,Beciu,tr
+155092,Beuca,tr
+155109,Dracea,tr
+155118,Fantanele,tr
+155127,Frasinet,tr
+155136,Purani,tr
+155145,Saelele,tr
+155154,Uda-Clocociov,tr
+155243,Municipiul Timisoara,tm
+155261,Dumbravita,tm
+155289,Ghiroda,tm
+155314,Giroc,tm
+155350,Municipiul Lugoj,tm
+155403,Oras Buzias,tm
+155458,Oras Deta,tm
+155494,Oras Jimbolia,tm
+155528,Oras Sannicolau Mare,tm
+155546,Balint,tm
+155591,Banloc,tm
+155662,Bara,tm
+155724,Beba Veche,tm
+155760,Becicherecu Mic,tm
+155797,Belint,tm
+155840,Bethausen,tm
+155911,Biled,tm
+155957,Barna,tm
+156035,Bogda,tm
+156106,Boldur,tm
+156151,Brestovat,tm
+156213,Carpinis,tm
+156259,Cenad,tm
+156277,Cenei,tm
+156311,Cheveresu Mare,tm
+156357,Oras Ciacova,tm
+156437,Comlosu Mare,tm
+156473,Costeiu,tm
+156534,Criciova,tm
+156589,Curtea,tm
+156623,Darova,tm
+156669,Denta,tm
+156712,Dudestii Vechi,tm
+156767,Dumbrava,tm
+156801,Oras Faget,tm
+156927,Fardea,tm
+157004,Foeni,tm
+157031,Gavojdia,tm
+157086,Oras Gataia,tm
+157193,Ghizela,tm
+157246,Giarmata,tm
+157273,Giera,tm
+157317,Giulvaz,tm
+157362,Jamu Mare,tm
+157424,Jebel,tm
+157451,Lenauheim,tm
+157497,Liebling,tm
+157530,Lovrin,tm
+157585,Margina,tm
+157683,Masloc,tm
+157736,Manastiur,tm
+157781,Moravita,tm
+157834,Mosnita Noua,tm
+157898,Nadrag,tm
+157923,Nitchidorf,tm
+157969,Ohaba Lunga,tm
+158010,Ortisoara,tm
+158065,Peciu Nou,tm
+158109,Periam,tm
+158136,Pietroasa,tm
+158181,Pischia,tm
+158243,Racovita,tm
+158314,Oras Recas,tm
+158396,Remetea Mare,tm
+158449,Sacosu Turcesc,tm
+158528,Satchinez,tm
+158564,Sacalaz,tm
+158608,Secas,tm
+158653,Sanandrei,tm
+158699,Sanmihaiu Roman,tm
+158733,Sanpetru Mare,tm
+158779,Sag,tm
+158804,Stiuca,tm
+158859,Teremia Mare,tm
+158895,Tomesti,tm
+158966,Topolovatu Mare,tm
+159035,Tormac,tm
+159071,Traian Vuia,tm
+159142,Uivar,tm
+159213,Varias,tm
+159259,Victor Vlad Delamarina,tm
+159339,Voiteg,tm
+159366,Birda,tm
+159375,Checea,tm
+159384,Dudestii Noi,tm
+159393,Fibis,tm
+159400,Ghilad,tm
+159419,Gottlob,tm
+159428,Iecea Mare,tm
+159437,Parta,tm
+159446,Padureni,tm
+159455,Saravale,tm
+159464,Sandra,tm
+159473,Tomnatic,tm
+159482,Valcani,tm
+159491,Livezile,tm
+159507,Pesac,tm
+159516,Bucovat,tm
+159525,Otelec,tm
+159614,Municipiul Tulcea,tl
+159650,Oras Babadag,tl
+159687,Oras Isaccea,tl
+159730,Oras Macin,tl
+159767,Oras Sulina,tl
+159785,Baia,tl
+159847,Beidaud,tl
+159883,C.a. Rosetti,tl
+159945,Carcaliu,tl
+159963,Casimcea,tl
+160047,Ceatalchioi,tl
+160092,Ceamurlia De Jos,tl
+160127,Cerna,tl
+160172,Chilia Veche,tl
+160225,Ciucurova,tl
+160261,Crisan,tl
+160305,Daeni,tl
+160323,Dorobantu,tl
+160387,Frecatei,tl
+160430,Greci,tl
+160458,Grindu,tl
+160476,Hamcearca,tl
+160528,Horia,tl
+160564,Izvoarele,tl
+160617,Jijila,tl
+160644,Jurilovca,tl
+160680,Luncavita,tl
+160724,Mahmudia,tl
+160779,Maliuc,tl
+160831,Mihai Bravu,tl
+160877,Mihail Kogalniceanu,tl
+160911,Murighiol,tl
+160993,Nalbant,tl
+161035,Niculitel,tl
+161053,Nufaru,tl
+161106,Ostrov,tl
+161133,Pardina,tl
+161151,Peceneaga,tl
+161179,Sarichioi,tl
+161231,Sfantu Gheorghe,tl
+161259,Slava Cercheza,tl
+161286,Smardan,tl
+161302,Somova,tl
+161348,Stejaru,tl
+161384,Topolog,tl
+161464,Turcoaia,tl
+161482,Valea Nucarilor,tl
+161525,I.c.bratianu,tl
+161543,Vacareni,tl
+161552,Bestepe,tl
+161561,Valea Teilor,tl
+161794,Municipiul Barlad,vs
+161829,Municipiul Husi,vs
+161856,Oras Negresti,vs
+161945,Municipiul Vaslui,vs
+162014,Albesti,vs
+162069,Alexandru Vlahuta,vs
+162149,Arsura,vs
+162194,Banca,vs
+162327,Bacani,vs
+162381,Bacesti,vs
+162452,Balteni,vs
+162498,Berezeni,vs
+162559,Blagesti,vs
+162595,Bogdana,vs
+162693,Bogdanesti,vs
+162791,Bogdanita,vs
+162871,Botesti,vs
+162924,Bunesti-Averesti,vs
+163002,Codaesti,vs
+163057,Coroiesti,vs
+163137,Costesti,vs
+163208,Cretesti,vs
+163253,Danesti,vs
+163324,Deleni,vs
+163379,Delesti,vs
+163486,Dragomiresti,vs
+163618,Dranceni,vs
+163681,Duda-Epureni,vs
+163734,Dumesti,vs
+163789,Epureni,vs
+163832,Falciu,vs
+163903,Gagesti,vs
+163967,Gherghesti,vs
+164062,Garceni,vs
+164133,Grivita,vs
+164197,Hoceni,vs
+164277,Dimitrie Cantemir,vs
+164339,Iana,vs
+164393,Ivanesti,vs
+164543,Ivesti,vs
+164598,Laza,vs
+164687,Lipovat,vs
+164749,Lunca Banului,vs
+164829,Malusteni,vs
+164892,Miclesti,vs
+164936,Muntenii De Jos,vs
+164981,Oras Murgeni,vs
+165069,Oltenesti,vs
+165130,Osesti,vs
+165185,Padureni,vs
+165274,Perieni,vs
+165336,Poienesti,vs
+165416,Pogana,vs
+165470,Puiesti,vs
+165611,Pungesti,vs
+165719,Rebricea,vs
+165817,Rosiesti,vs
+165899,Solesti,vs
+165979,Stanilesti,vs
+166057,Stefan Cel Mare,vs
+166137,Suletea,vs
+166182,Tanacu,vs
+166235,Tacuta,vs
+166315,Tatarani,vs
+166413,Todiresti,vs
+166529,Tutova,vs
+166636,Valeni,vs
+166672,Vetrisoaia,vs
+166707,Viisoara,vs
+166770,Vinderei,vs
+166869,Voinesti,vs
+166985,Vulturesti,vs
+167035,Vutcani,vs
+167071,Zapodeni,vs
+167179,Zorleni,vs
+167222,Ibanesti,vs
+167231,Fruntiseni,vs
+167240,Rafaila,vs
+167259,Pogonesti,vs
+167268,Ciocani,vs
+167277,Cozmesti,vs
+167286,Dodesti,vs
+167295,Feresti,vs
+167302,Muntenii De Sus,vs
+167311,Pochidia,vs
+167320,Puscasi,vs
+167473,Municipiul Ramnicu Valcea,vl
+167641,Oras Baile Govora,vl
+167696,Oras Baile Olanesti,vl
+167794,Oras Brezoi,vl
+167909,Oras Calimanesti,vl
+167981,Municipiul Dragasani,vl
+168041,Oras Horezu,vl
+168130,Oras Ocnele Mari,vl
+168229,Alunu,vl
+168309,Amarasti,vl
+168372,Oras Babeni,vl
+168452,Oras Balcesti,vl
+168559,Barbatesti,vl
+168602,Oras Berbesti,vl
+168675,Berislavesti,vl
+168755,Boisoara,vl
+168791,Budesti,vl
+168880,Bujoreni,vl
+168960,Bunesti,vl
+169039,Cernisoara,vl
+169119,Caineni,vl
+169182,Copaceni,vl
+169253,Costesti,vl
+169306,Creteni,vl
+169351,Daesti,vl
+169404,Danicei,vl
+169547,Dragoesti,vl
+169583,Fauresti,vl
+169681,Fartatesti,vl
+169896,Francesti,vl
+169994,Galicea,vl
+170097,Ghioroiu,vl
+170168,Glavile,vl
+170220,Golesti,vl
+170346,Gradistea,vl
+170444,Gusoeni,vl
+170514,Ionesti,vl
+170612,Lalosu,vl
+170685,Ladesti,vl
+170792,Lapusata,vl
+170872,Livezi,vl
+170952,Lungesti,vl
+171021,Malaia,vl
+171067,Mateesti,vl
+171101,Maciuca,vl
+171209,Madulari,vl
+171272,Maldaresti,vl
+171325,Mihaesti,vl
+171469,Milcoiu,vl
+171539,Muereasca,vl
+171628,Nicolae Balcescu,vl
+171806,Olanu,vl
+171879,Orlesti,vl
+171931,Otesani,vl
+171995,Pausesti,vl
+172082,Pausesti-Maglasi,vl
+172153,Perisani,vl
+172279,Pesceana,vl
+172340,Pietrari,vl
+172377,Popesti,vl
+172457,Prundeni,vl
+172509,Racovita,vl
+172581,Roesti,vl
+172698,Rosiile,vl
+172812,Runcu,vl
+172894,Salatrucel,vl
+172947,Scundu,vl
+172992,Sinesti,vl
+173061,Slatioara,vl
+173132,Stanesti,vl
+173230,Stoenesti,vl
+173374,Stoilesti,vl
+173533,Stroesti,vl
+173597,Sutesti,vl
+173686,Sirineasa,vl
+173748,Stefanesti,vl
+173793,Susani,vl
+173855,Tetoiu,vl
+173935,Tomsani,vl
+174021,Vaideeni,vl
+174085,Valea Mare,vl
+174156,Vladesti,vl
+174218,Voicesti,vl
+174254,Voineasa,vl
+174290,Zatreni,vl
+174496,Titesti,vl
+174502,Diculesti,vl
+174511,Lacusteni,vl
+174520,Mitrofani,vl
+174744,Municipiul Focsani,vn
+174780,Campineanca,vn
+174824,Golesti,vn
+174860,Municipiul Adjud,vn
+174922,Oras Marasesti,vn
+175019,Oras Odobesti,vn
+175055,Oras Panciu,vn
+175126,Andreiasu De Jos,vn
+175206,Balesti,vn
+175224,Barsesti,vn
+175260,Boghesti,vn
+175368,Bolotesti,vn
+175439,Bordesti,vn
+175466,Brosteni,vn
+175509,Chiojdeni,vn
+175590,Ciorasti,vn
+175670,Campuri,vn
+175732,Carligele,vn
+175787,Corbita,vn
+175885,Cotesti,vn
+175938,Dumbraveni,vn
+175983,Dumitresti,vn
+176150,Fitionesti,vn
+176212,Garoafa,vn
+176301,Gugesti,vn
+176338,Gura Calitei,vn
+176445,Homocea,vn
+176506,Jaristea,vn
+176551,Jitia,vn
+176613,Maicanesti,vn
+176686,Mera,vn
+176748,Milcovul,vn
+176793,Movilita,vn
+176855,Nanesti,vn
+176891,Naruja,vn
+176944,Nereju,vn
+177003,Nistoresti,vn
+177101,Paltin,vn
+177236,Paunesti,vn
+177263,Poiana Cristei,vn
+177352,Pufesti,vn
+177405,Racoasa,vn
+177469,Reghiu,vn
+177557,Ruginesti,vn
+177600,Sihlea,vn
+177655,Slobozia Bradului,vn
+177726,Slobozia Ciorasti,vn
+177762,Soveja,vn
+177799,Straoane,vn
+177842,Suraia,vn
+177879,Tanasoaia,vn
+177986,Tataranu,vn
+178046,Tamboesti,vn
+178117,Tulnici,vn
+178180,Tifesti,vn
+178279,Urechesti,vn
+178313,Valea Sarii,vn
+178377,Vidra,vn
+178475,Vintileasca,vn
+178545,Vizantea-Livezi,vn
+178607,Vanatori,vn
+178689,Vartescoiu,vn
+178750,Vrancioaia,vn
+178821,Vulturu,vn
+178885,Negrilesti,vn
+178894,Ploscuteni,vn
+178901,Popesti,vn
+178910,Paulesti,vn
+178929,Biliesti,vn
+178938,Gologanu,vn
+178947,Obrejita,vn
+178956,Rastoaca,vn
+178965,Spulber,vn
+179132,Municipiul Bucuresti,b
+179221,Oras Bragadiru,if
+179249,Chiajna,if
+179285,Oras Chitila,if
+179310,Dobroesti,if
+179347,Glina,if
+179383,Jilava,if
+179409,Oras Magurele,if
+179463,Mogosoaia,if
+179481,Oras Otopeni,if
+179515,Oras Pantelimon,if
+179533,Oras Popesti Leordeni,if
+179551,Oras Voluntari,if
+179588,Copaceni,if
+179604,Poienile Izei,mm
+179613,Sieu,mm
+179622,Grosii Tiblesului,mm
+179631,Treznea,sj
+179640,Vulcana-Pandele,db
+179659,Negrilesti,bn
+179677,Camin,sm
+179686,Dumitrita,bn
+179695,Simisna,sj
+179702,Traian,il
+179711,Vladeni,db
+179720,Poiana Ilvei,bn
+179739,Malu,gr
+179748,Cosoba,gr
+179757,Herasti,gr
+179766,Isvoarele,gr
+179775,Sabareni,gr
+179784,Boranesti,il
+179793,Buesti,il
+179800,Maia,il
+179819,Ograda,il
+179828,Rosiori,il
+179837,Coas,mm
+179846,Coltau,mm
+179855,Gardani,mm
+179864,Oncesti,mm
+179873,Agris,sm
+179882,Ciumesti,sm
+179891,Raciu,db
+179908,Pietrari,db
+179917,Rau Alb,db
+179926,Rascaeti,db
+179935,Persinari,db
+179944,Runcu Salvei,bn
+179953,Ciceu- Mihaiesti,bn
+179962,Galbinasi,cl
+179971,Colelia,il
+179980,Marculesti,il
+179999,Moldoveni,il
+180000,Platonesti,il
+180019,Sarateni,il
+180028,Porumbesti,sm
+180037,Boghis,sj
+180046,Gura Ialomitei,il
+180055,Crivat,cl
+180064,Barbulesti,il
+180091,Racsa,sm
