@@ -4,28 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9df5112-2016-4e88-9a08-c342119c37ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../9_seminar/pythonProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../9_seminar/pythonProject1/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="86d461d8-2baf-44a7-b9d8-294b0b35a12b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2pU8UQWjTFQdatJQ1bDErh3oXWJ" />
+  <component name="ProjectId" id="2pUIO08jmKjhOIbESYuH8v9D88p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +26,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/serbantimofte/Documents/Codes/ASE/Data_Analytics/Recap/Middle_Sem_Curricullum",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,7 +37,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python">
-      <module name="Reading_Cleaning_Stand_Data" />
+      <module name="Middle_Sem_Curricullum" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,8 +45,8 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Reading_Cleaning_Stand_Data)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_NAME" value="Python 3.12 (Middle_Sem_Curricullum)" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -80,12 +72,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9df5112-2016-4e88-9a08-c342119c37ea" name="Changes" comment="" />
-      <created>1732809308810</created>
+      <changelist id="86d461d8-2baf-44a7-b9d8-294b0b35a12b" name="Changes" comment="" />
+      <created>1732814191650</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732809308810</updated>
-      <workItem from="1732809310477" duration="4749000" />
+      <updated>1732814191650</updated>
+      <workItem from="1732814192692" duration="1353000" />
     </task>
     <servers />
   </component>
@@ -93,6 +85,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Reading_Cleaning_Stand_Data$main.coverage" NAME="main Coverage Results" MODIFIED="1732809699299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Middle_Sem_Curricullum$main.coverage" NAME="main Coverage Results" MODIFIED="1732814317453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
