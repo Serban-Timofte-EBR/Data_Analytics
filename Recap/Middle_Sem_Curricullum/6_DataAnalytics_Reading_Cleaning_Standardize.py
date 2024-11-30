@@ -71,6 +71,34 @@ numericCols = ["Vanzari", "Profit", "Pret"]
 standardizeDatabase = standardizeData(database, numericCols)
 standardizeDatabase.to_csv("data/output/standardizeDatabase.csv")
 
-standardizeDatabase = standardizeDatabase.drop(columns=["ID_Produs", "Categorie", "Nume_Produs"])
+standardizeDatabase = standardizeDatabase.drop(columns=["Categorie", "Nume_Produs"])
 print("Standardize data:")
 print(standardizeDatabase.head())
+
+# Heatmap pentru corelația variabilelor numerice
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Matricea de corelatie
+correlation_matrix = standardizeDatabase.corr()
+
+# Heatmap-ul
+sns.heatmap(correlation_matrix, annot=True, cmap="YlGnBu")
+plt.title("Correlation matrix")
+plt.show()
+
+# 2. Histogramă pentru distribuția unei variabile
+# 	•	Scop: Analiza distribuției unei variabile (ex: Profit).
+# 	•	Explicație: Poți vedea cum sunt distribuite valorile și identifica potențiale extreme (outliers).
+
+# Graficul distribuției pentru Profit
+sns.histplot(standardizeDatabase["Profit"], kde = True, bins = 10, color="b")
+plt.title("Distribuția Profitului")
+plt.xlabel("Profit (standardizat)")
+plt.ylabel("Frecvență")
+
+# •    Profiturile sunt distribuite în jurul mediei standardizate(0), cu câteva valori extreme spre stânga și dreapta.
+# •    Curba KDE confirmă că cele mai multe valori se află aproape de media generală.
+# •    Distribuția arată o ușoară variație, dar nu este uniformă sau perfect normală.
+plt.show()
+
