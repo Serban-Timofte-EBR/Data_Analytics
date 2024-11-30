@@ -91,12 +91,28 @@ populatie_macroregiuni.to_csv('data/outputs/Etnii_per_MacroRegiune.csv')
 #   Regiunilor,
 #   Macroregiunilor.
 
-# def calculate_percentage(df):
-#     total_pop = df.sum(axis=1)
-#
-#     percentages = df.div(total_pop, axis=0) * 100
-#
-#     return percentages
-#
-# procente_etnii_localitati = calculate_percentage(ethnicity_localitati)
-# procente_etnii_localitati.to_csv('data/outputs/Procente_Etnii_per_Localitati.csv')
+numeric_columns = ["Romanian","Hungarians","Romany","Ukrainians","Germans","Turks","Russians_Lippovans","Tatars","Serbs","Slovaks","Bulgarians","Croats","Greeks","Italians","Jews","Czechs","Poles","Chinese","Armenians","Csango","Macedonians","Another"]
+
+def calculate_percentage(df, numeric_columns):
+    totalPopulatioForUAT = df[numeric_columns].sum(axis = 1) # axis = 1 suma pe linii
+
+    for col in numeric_columns:
+        df[col] = df[col] / totalPopulatioForUAT * 100
+
+    return df
+
+procente_localitati = calculate_percentage(ethnicity_localitati.copy(), numeric_columns)
+procente_localitati = procente_localitati.drop(columns = ["City_x", "County"])
+procente_localitati.to_csv('data/outputs/percentages/Etnii_per_localitati.csv')
+
+procente_judete = calculate_percentage(populatie_judete_clean_data.copy(), numeric_columns)
+procente_judete.to_csv('data/outputs/percentages/Etnii_per_judete.csv')
+
+procente_regiuni = calculate_percentage(populatie_regiune.copy(), numeric_columns)
+procente_regiuni.to_csv('data/outputs/percentages/Etnii_per_regiune.csv')
+
+procente_macroregiuni = calculate_percentage(populatie_macroregiuni.copy(), numeric_columns)
+procente_macroregiuni.to_csv('data/outputs/percentages/Etnii_per_macroregiune.csv')
+
+# Standardizarea datelor
+
