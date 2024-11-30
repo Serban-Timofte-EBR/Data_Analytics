@@ -1,0 +1,11 @@
+ID_Produs,Categorie,Vanzari,Profit,Nume_Produs,Pret
+1,Electrocasnice,20000.0,5000.0,Frigider,25000.0
+2,Electrocasnice,35000.0,12000.0,Televizor,40000.0
+3,Mobila,50000.0,15000.0,Canapea,60000.0
+4,Electrocasnice,32875.0,9000.0,Aspirator,20000.0
+5,Mobila,30000.0,9000.0,Birou,15000.0
+6,Electrocasnice,25000.0,6000.0,Masina de spalat,31444.444444444445
+7,Mobila,32875.0,8000.0,Pat,35000.0
+8,Electrocasnice,40000.0,9000.0,Mixer,8000.0
+9,Mobila,35000.0,10000.0,Dulap,50000.0
+10,Electrocasnice,28000.0,7000.0,Aspirator,30000.0
