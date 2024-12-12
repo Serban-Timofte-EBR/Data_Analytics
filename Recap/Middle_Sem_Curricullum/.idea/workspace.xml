@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="86d461d8-2baf-44a7-b9d8-294b0b35a12b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_DataAnalytics_Reading_Cleaning_Standardize.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_DataAnalytics_Reading_Cleaning_Standardize.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -97,7 +97,12 @@
       <updated>1732814191650</updated>
       <workItem from="1732814192692" duration="1353000" />
       <workItem from="1732973833701" duration="3611000" />
-      <workItem from="1732977781535" duration="315000" />
+      <workItem from="1732977781535" duration="594000" />
+      <workItem from="1733133467340" duration="46000" />
+      <workItem from="1733133519126" duration="921000" />
+      <workItem from="1733134632822" duration="22000" />
+      <workItem from="1733155982336" duration="3000" />
+      <workItem from="1733156022185" duration="3000" />
     </task>
     <servers />
   </component>
