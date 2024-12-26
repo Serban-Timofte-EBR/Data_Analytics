@@ -3,7 +3,6 @@ import seaborn as sns
 
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
-from sklearn.metrics import explained_variance_score
 from sklearn.cluster import KMeans
 
 
