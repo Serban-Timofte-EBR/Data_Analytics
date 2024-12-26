@@ -71,15 +71,16 @@ def cleanDataSmartphones(df):
             df['processor']
             .str.extract(r'(\w+ Core)')[0]
             .map(core_mapping)
-            .fillna(0)  # Default to 0 if mapping not found
+            .fillna(0)
         )
 
-        # Extract chipset type
         df['Processor_Chipset'] = df['processor'].str.extract(
             r'(Snapdragon|MediaTek|Exynos|Dimensity|Apple|Kirin|Unisoc)')
 
-        # Drop the original `processor` column
         df.drop(columns=['processor'], inplace=True)
+
+    if 'os' in df.columns:
+        df['os_type'] = df['os'].str.extract(r'(Android|iOS|Windows|Linux|HarmonyOS)', expand=False).str.lower()
 
     if 'price' in df.columns:
         df['price'] = df['price'].str.replace(r'[^\d]', '', regex=True).astype(float)
