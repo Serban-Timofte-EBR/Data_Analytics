@@ -23,6 +23,31 @@ Mai mult decât atât, distanțele dintre clustere indică faptul că avem categ
 
 ---
 
+#### **Use case: identificarea tiparelor de smartphone-uri și utilizatori**
+Unul dintre principalele obiective ale analizei ACP aplicate pe setul nostru de date este identificarea tiparelor în funcție de specificațiile tehnice ale smartphone-urilor și comportamentele utilizatorilor. Rezultatele PCA sugerează că putem utiliza această metodă pentru a clasifica dispozitivele în segmente distincte și pentru a înțelege preferințele consumatorilor, pornind de la specificațiile și prețurile lor. Clusterele evidențiate în graficul PCA ne oferă informații valoroase despre relațiile dintre dispozitive și despre tiparele comportamentale implicite.
+
+##### **1. Smartphone-uri premium vs. mid-range și low-cost**
+- **Dispozitive premium**: Modele precum iPhone Pro, Samsung S-Series sau OnePlus 11 sunt asociate cu specificații tehnice avansate (procesor rapid, RAM ridicat, display cu rezoluție înaltă) și prețuri mai mari. Aceste dispozitive sunt preferate de utilizatori care prioritizează performanța și funcțiile avansate.
+- **Dispozitive mid-range**: Acestea includ modele echilibrate, cu specificații bune (procesor decent, RAM 6-8 GB, camere competitive) și prețuri moderate. Acest cluster este probabil asociat cu utilizatori care caută un raport bun între preț și performanță.
+- **Dispozitive low-cost**: Modelele din acest cluster (ex. Motorola Moto G sau Samsung Galaxy A) sunt caracterizate de specificații de bază și prețuri accesibile, fiind preferate de utilizatorii care prioritizează costurile reduse peste performanță.
+
+##### **2. Specificații neobișnuite sau observații atipice**
+Punctele care ies din tiparele clusterelor principale pot reprezenta observații interesante:
+- **Smartphone-uri de nișă**: Unele dispozitive din aceste puncte izolate ar putea fi smartphone-uri experimentale, modele cu specificații unice (ex. camere de 200 MP sau baterii extrem de mari) sau dispozitive lansate în ediții limitate.
+- **Modele cu un raport preț-performanță neobișnuit**: Aceste observații ar putea indica smartphone-uri care oferă specificații premium la prețuri reduse sau, invers, dispozitive supraevaluate. Analizarea lor poate dezvălui oportunități pentru consumatori sau lacune în piață.
+
+##### **3. Preferințele utilizatorilor pe baza specificațiilor tehnice**
+Relațiile dintre specificații, precum procesorul, RAM-ul, și preț, ne oferă o perspectivă asupra preferințelor utilizatorilor:
+- **Utilizatorii orientați spre performanță**: Aceștia aleg dispozitive cu procesoare rapide, memorie RAM ridicată și ecrane mari, chiar dacă aceste specificații vin la un cost ridicat.
+- **Utilizatorii economici**: Preferă dispozitive low-cost, dar cu specificații acceptabile pentru utilizarea zilnică. Aceștia sunt mai sensibili la preț și mai puțin interesați de funcții avansate.
+- **Fanii camerelor foto/video**: Există un cluster asociat cu smartphone-uri care au camere foto performante (50 MP+), iar utilizatorii acestor dispozitive tind să fie atrași de fotografia de înaltă calitate.
+
+##### **4. Posibile tipare între iOS și Android**
+Clusterele pot reflecta și diferențele dintre ecosistemele iOS și Android:
+- iPhone-urile tind să formeze un cluster separat, datorită specificațiilor uniforme, prețurilor ridicate și ecosistemului Apple. Utilizatorii de iPhone sunt în general loiali brandului, ceea ce sugerează un comportament predictibil.
+- Android acoperă o gamă mai diversificată de dispozitive, cu clustere ce variază între low-cost și premium. Acest lucru sugerează o bază de utilizatori mai eterogenă, cu preferințe variate.
+
+---
 #### **Concluzii**
 Această analiză arată clar că dataset-ul nostru este structurat și poate fi bine descris prin doar două componente principale, fără a pierde informații importante. PC1 și PC2 explică cea mai mare parte a variației, ceea ce face analiza mai eficientă și mai ușor de interpretat. Este evident că variabilele contribuie în mod semnificativ la formarea clusterelor, ceea ce sugerează tipare clare în date.
 
