@@ -4,7 +4,7 @@ import pandas as pd
 
 from data_preparation.data_reader import readData
 from data_preparation.data_cleaner import cleanData, cleanDataSmartphones
-from data_preparation.data_standardization import standardization
+from data_preparation.data_standardization import standardization, save_descriptive_statistics
 from data_preparation.data_merge import combine_datasets
 from pca.analysis import pca, visualize, kmeans_clustering
 
@@ -31,6 +31,11 @@ def process_smartphones():
         'resolution_height'
     ]
 
+    save_descriptive_statistics(
+        df_smartphones, numeric_cols_smartphones,
+        "data/statistics/smartphones_statistics.txt"
+    )
+
     df_smartphones = standardization(df_smartphones, numeric_cols_smartphones)
     df_smartphones.to_csv("data/intermediate/standardized/Smartphones_Dataset_standardized.csv")
 
@@ -52,6 +57,11 @@ def process_sales():
         'iOS_Market_Share',
         'Android_Market_Share'
     ]
+
+    save_descriptive_statistics(
+        df_sales, numeric_cols_sales,
+        "data/statistics/sales_statistics.txt"
+    )
 
     df_sales = standardization(df_sales, numeric_cols_sales)
     df_sales.to_csv("data/intermediate/standardized/Iphone_Dataset_standardized.csv")
