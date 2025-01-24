@@ -122,4 +122,72 @@ plt.scatter(Y_c[:, 0], Y_c[:, 1], label="Femei")
 plt.title("Primele doua radacii canonice")
 plt.xlabel("Componenta 1")
 plt.ylabel("Componenta 2")
-plt.show()
+# plt.show()
+
+# C -> lucrul cu Dataframe-uri (extra)
+
+df_vot_nou = pd.read_csv("data/Vot.csv", index_col=0)
+df_coduri_nou = pd.read_csv("data/Coduri_localitati.csv", index_col=0)
+
+print("Datele din csv:")
+print(df_vot_nou.head())
+print(df_coduri_nou.head())
+
+# Totalul participării pe categorii de vârstă pe județe
+df_merged_nou = df_vot_nou.merge(
+    df_coduri_nou,
+    right_index=True,
+    left_index=True
+).drop(columns=["Localitate_y", "Mediu"])
+print("Dataframe merged nou:")
+print(df_merged_nou.head())
+
+df_pe_judete = df_merged_nou.groupby("Judet").sum().drop(columns=["Localitate_x"])
+df_pe_judete.to_csv("data/C/cerinta3.csv")
+
+# Diferența dintre participarea bărbaților și femeilor pe localități
+    # Pentru fiecare localitate, să se calculeze diferența dintre totalul participării bărbaților și femeilor (Barbati_* și Femei_*)
+cerinta4_rows=[]
+for index, row in df_vot_nou.iterrows():
+    nr_barbati = row[set_barbati].sum()
+    nr_femei = row[set_femei].sum()
+    diff = nr_barbati - nr_femei
+
+    cerinta4_rows.append({
+        "Siruta": index,
+        "Localitate": row["Localitate"],
+        "Diferenta_Barbati_Femei": diff
+    })
+
+# df_cerinta4 = pd.DataFrame(cerinta4_rows).sort_values(by="Localitate", ascending=True)
+df_cerinta4 = pd.DataFrame(cerinta4_rows).sort_values(by="Diferenta_Barbati_Femei", ascending=False)
+df_cerinta4.to_csv("data/C/cerinta4.csv", index=False)
+
+# Procentul total de participare urban vs. rural
+    # Mediu,Procent_Participare
+    # Urban,75.5
+    # Rural,24.5
+df_merged_nou_mediu = df_vot_nou.merge(
+    df_coduri_nou,
+    right_index=True,
+    left_index=True
+).drop(columns=["Localitate_y"])
+
+df_groupBy_mediu = df_merged_nou_mediu.groupby("Mediu").sum().drop(columns=["Localitate_x", "Judet"])
+
+coloane_votanti = df_groupBy_mediu.loc[:, "Barbati_25-34":].columns
+print("Coloanele de votanti: ", coloane_votanti)
+
+cerinta5_rows=[]
+for index, row in df_groupBy_mediu.iterrows():
+    totalVotanti = row[coloane_votanti].sum()
+    print(f"{index} - Total Votanți: {totalVotanti}, Votanți LP: {row['Votanti_LP']}")
+    prezenta = totalVotanti / row["Votanti_LP"] * 100
+
+    cerinta5_rows.append({
+        "Mediu": index,
+        "Procent_Participare": prezenta
+    })
+
+df_cerinta5 = pd.DataFrame(cerinta5_rows)
+df_cerinta5.to_csv("data/C/cerinta5.csv", index=False)
