@@ -1,0 +1,11 @@
+CountryId,Continent,Completion
+USA,North America,91.15
+CAN,North America,92.85
+FRA,Europe,93.85
+DEU,Europe,92.85
+IND,Asia,71.35
+BRA,South America,78.95
+CHN,Asia,94.69999999999999
+ZAF,Africa,67.85
+AUS,Oceania,95.0
+JPN,Asia,97.35
