@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+import seaborn as sns
 import matplotlib.pyplot as plt
 
 from sklearn.cross_decomposition import CCA
@@ -78,24 +80,19 @@ def cleanData(df):
 
 df_vot_clean = cleanData(df_vot)
 
-# Pasul 2: Separam in categorii
+# 3. Separarea variabilelor în categorii
 set_barbati = ["Barbati_25-34", "Barbati_35-44", "Barbati_45-64", "Barbati_65_"]
 set_femei = ["Femei_18-24", "Femei_35-44", "Femei_45-64", "Femei_65_"]
 
-# Pasul 3: Creem cele doua seturi
 X = df_vot_clean[set_barbati]
 Y = df_vot_clean[set_femei]
 
-# Ne asiguram de faptul ca X si Y au acelasi numar de randuri
+# Ne asiguram ca sunt egale
 X, Y = X.align(Y, join="inner", axis=0)
 
-# Pasul 4: Analiza canonica
-cca = CCA()
-cca.fit(X, Y)
-
-# Pasul 5: Scorurile canonice
-X_c, Y_c = cca.transform(X, Y)
-
+# Analiza canonica
+modelCCA = CCA(n_components=2)
+X_c, Y_c = modelCCA.fit_transform(X, Y)
 df_X_c = pd.DataFrame(
     X_c,
     index=X.index,
@@ -110,12 +107,12 @@ df_Y_c = pd.DataFrame(
 )
 df_Y_c.to_csv("data/u.csv")
 
-# Pasul 6: Calculam corelatiile canonice
-correlation_canonical = cca.score(X, Y)
-with open("data/r.csv", "w") as file:
-    file.write(f"Corelatia canonica: {correlation_canonical}")
 
-# Pasul 7: Vizualizarea datelor
+# Corelatiile canonice
+corelatii_canonice = modelCCA.score(X, Y)
+print("Corelatia canonica: ", corelatii_canonice)
+
+# Instanțe în spațiile celor două variabile canonice
 plt.figure("Vizualizarea datelor canonice")
 plt.scatter(X_c[:, 0], X_c[:, 1], label="Barbati")
 plt.scatter(Y_c[:, 0], Y_c[:, 1], label="Femei")
@@ -124,7 +121,35 @@ plt.xlabel("Componenta 1")
 plt.ylabel("Componenta 2")
 # plt.show()
 
-# C -> lucrul cu Dataframe-uri (extra)
+# Corelograma
+corr_x = np.corrcoef(X.T, X_c.T)[:X.shape[1], X.shape[1]:]
+corr_y = np.corrcoef(Y.T, Y_c.T)[:Y.shape[1], Y.shape[1]:]
+
+df_corr_x = pd.DataFrame(
+    corr_x,
+    index=set_barbati,
+    columns=["X_c1", "X_c2"]
+)
+print(df_corr_x.head())
+
+df_corr_y = pd.DataFrame(
+    corr_y,
+    index=set_femei,
+    columns=["Y_c1", "Y_c2"]
+)
+print(df_corr_y.head())
+
+plt.figure("Corelograma 1")
+sns.heatmap(df_corr_x)
+plt.title("Corelograma variabilei X in variabile canonice")
+plt.show()
+
+plt.figure("Corelograma 2")
+sns.heatmap(df_corr_y)
+plt.title("Corelograma variabilei Y in variabile canonice")
+plt.show()
+
+C -> lucrul cu Dataframe-uri (extra)
 
 df_vot_nou = pd.read_csv("data/Vot.csv", index_col=0)
 df_coduri_nou = pd.read_csv("data/Coduri_localitati.csv", index_col=0)
