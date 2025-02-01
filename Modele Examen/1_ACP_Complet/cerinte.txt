@@ -1,0 +1,12 @@
+A. Prelucrare date
+	1.	Din fișierul MiseNatPopTari.csv, calculați media valorilor pentru fiecare țară pe baza anilor disponibili și salvați rezultatele într-un fișier numit cerinta1.csv. Fișierul trebuie să conțină următoarele coloane:
+	    •	CodTara - codul țării
+	    •	NumeTara - numele țării
+	    •	Medie - media valorilor pe baza anilor.
+	2.	Combinați datele din MiseNatPopTari.csv cu fișierul CoduriTariExtins.csv pentru a adăuga informația despre continent pentru fiecare țară. Apoi:
+        •	Gruparea datelor pe continent și calcularea valorilor totale și a mediilor pentru fiecare continent.
+        •	Salvați rezultatele într-un fișier numit cerinta2.csv. Fișierul trebuie să conțină:
+        •	Continent
+        •	Total
+        •	Medie
+B. Analiza ACP (Analiza Componentelor Principale)
