@@ -1,0 +1,16 @@
+“În fișierul CityDevelopment.csv sunt prezentate date despre dezvoltarea economică și demografică a mai multor orașe dintr-o regiune. Variabilele sunt următoarele:
+	•	CityID: ID-ul unic al orașului.
+	•	City: Numele orașului.
+	•	Population: Populația orașului.
+	•	GDP_per_Capita: Produsul intern brut pe cap de locuitor.
+	•	Unemployment_Rate: Rata șomajului (%).
+	•	Education_Index: Indicele educației (scor de la 0 la 1).
+	•	Healthcare_Access: Accesul la servicii medicale (scor de la 0 la 1).
+	•	Green_Spaces: Suprafața spațiilor verzi pe cap de locuitor (m²).
+	•	Pollution_Index: Indicele poluării (scor de la 0 la 100).
+	•	Traffic_Congestion: Nivelul de congestionare a traficului (%).
+
+Cerinte:
+	1.	Se cere să se efectueze o analiză factorială standardizată și să se determine numărul de factori semnificativi conform criteriului lui Cattell.
+	2.	Se vor calcula scorurile factoriale și se vor salva în fișierul factor_scores.csv.
+	3.	Se cere să se traseze un biplot pentru a vizualiza relația dintre variabilele originale și factorii extrași.”

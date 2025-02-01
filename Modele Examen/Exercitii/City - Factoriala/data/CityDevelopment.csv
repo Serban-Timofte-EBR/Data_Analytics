@@ -1,0 +1,11 @@
+CityID,City,Population,GDP_per_Capita,Unemployment_Rate,Education_Index,Healthcare_Access,Green_Spaces,Pollution_Index,Traffic_Congestion
+1,AlphaCity,1500000,32000,8.5,0.75,0.8,15,60,35
+2,BetaTown,750000,28000,6.3,0.65,0.7,12,45,25
+3,GammaVille,1200000,34000,7.8,0.72,0.75,18,55,40
+4,DeltaCity,950000,30000,9.2,0.68,0.73,10,70,50
+5,EpsilonCity,500000,25000,10.5,0.62,0.6,8,80,60
+6,ZetaTown,1100000,31000,7.0,0.70,0.78,14,50,30
+7,EtaCity,850000,27000,8.8,0.66,0.65,9,65,45
+8,ThetaVille,1300000,35000,6.5,0.76,0.82,20,40,20
+9,IotaCity,400000,24000,11.0,0.60,0.55,7,85,65
+10,KappaTown,1000000,29000,8.2,0.69,0.72,11,60,38
