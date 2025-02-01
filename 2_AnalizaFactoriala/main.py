@@ -64,7 +64,7 @@ df_date_standardizate.to_csv("data/intermediate/DateStandardizate.csv")
 
 # 5. Modelul Factorial
 nr_variabile = len(df_date_standardizate.columns)
-modelAf = FactorAnalyzer(n_factors=nr_variabile, rotation=None)
+modelAf = FactorAnalyzer(n_factors=nr_variabile, rotation=None) # rotation='varimax' daca vrem cu rotatie
 F = modelAf.fit(df_date_standardizate)
 
 # 6. Scorurile factoriale
