@@ -1,0 +1,6 @@
+CountryID,Country_x,GNI,ChangeInventories,Exports,Imports,FinalConsExp,GrossCF,HouseholdConsExp,AgrHuntForFish,Construction,Manufacturing,MineralsMining,TradeT,TransportComm,Other,Valoare Adaugata,Continent
+1,Afghanistan,389.833,20.5,50.2,45.3,321.3,15.0,275.0,89.3,12.5,50.0,30.5,21.1,45.2,28.3,276.90000000000003,Asia
+8,Albania,5976.382,10.2,200.5,190.3,4500.2,600.0,3500.0,150.2,120.5,600.0,400.0,300.0,500.5,450.5,2521.7,Europe
+12,Algeria,3456.789,50.1,300.5,270.2,2500.3,700.0,2000.0,100.5,250.0,500.0,200.0,350.0,400.0,300.0,2100.5,Africa
+24,Angola,1289.234,30.0,100.0,90.0,1000.0,150.0,850.0,200.0,50.0,150.0,100.0,75.0,120.0,80.0,775.0,Africa
+56,Belgium,25000.0,150.0,1000.0,1100.0,20000.0,3000.0,15000.0,800.0,700.0,3000.0,2000.0,1200.0,1500.0,1000.0,10200.0,Europe
