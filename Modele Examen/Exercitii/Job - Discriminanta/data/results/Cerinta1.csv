@@ -1,0 +1,5 @@
+Region,AverageSalary,JobSatisfaction,Remote,ExperienceLevel,TrainingBudget,HiringTime,Population,GDP_per_Capita
+East,89000.0,8.5,87.5,4.0,1150.0,23.5,400000.0,70000.0
+North,80000.0,7.0,75.0,2.5,850.0,32.5,500000.0,60000.0
+West,74000.0,7.0,60.0,3.0,775.0,41.0,450000.0,65000.0
+South,68500.0,7.0,62.5,2.5,700.0,36.5,300000.0,55000.0
