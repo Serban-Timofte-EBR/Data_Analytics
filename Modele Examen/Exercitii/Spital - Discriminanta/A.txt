@@ -1,0 +1,5 @@
+Partea A: Analiză Preliminară a Datelor
+
+Cerințe:
+	1.	Să se calculeze media, mediana și deviația standard pentru fiecare variabilă numerică din fișierul Patients_Training.csv și să se salveze rezultatul într-un fișier denumit Statistics.csv.
+	2.	Să se grupeze datele în funcție de variabila DEPARTMENT și să se calculeze media pentru fiecare variabilă numerică în cadrul fiecărui grup. Rezultatul va fi salvat în fișierul Grouped_Means.csv.

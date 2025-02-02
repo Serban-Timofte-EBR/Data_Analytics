@@ -1,0 +1,28 @@
+Context:
+
+Un spital dorește să evalueze starea pacienților internați în secția de urgențe pentru a decide secția adecvată de transfer. Variabilele predictor sunt următoarele:
+	•	L_Temp: Temperatura corpului pacientului.
+	•	L_BP: Ultima măsurare a tensiunii arteriale.
+	•	L_Oxygen: Saturația de oxigen.
+	•	L_Pulse: Pulsul măsurat.
+	•	L_RR: Frecvența respiratorie.
+
+Variabila țintă este DEPARTMENT, care poate avea trei valori:
+	•	A: Pacientul este transferat la secția de Terapie Intensivă.
+	•	B: Pacientul este transferat la secția de Chirurgie.
+	•	C: Pacientul este transferat la secția Generală.
+
+Setul de date de antrenament și testare se află în fișierul Patients_Training.csv, iar setul de date de aplicare în Patients_Apply.csv.
+
+Cerințe:
+	1.	Antrenarea modelului
+	•	Să se creeze un model de analiză discriminantă liniară pentru clasificarea pacienților.
+	•	Se va folosi un procent de 70% din datele de antrenament pentru antrenare și 30% pentru testare.
+	2.	Scoruri discriminante
+	•	Să se calculeze scorurile discriminante pentru setul de antrenament și să se salveze în fișierul Scores.csv.
+	3.	Predicții
+	•	Să se efectueze predicții pentru setul de testare și pentru setul de aplicare.
+	•	Rezultatele se vor salva în fișierele Predictions_Test.csv și Predictions_Apply.csv.
+	4.	Evaluarea modelului
+	•	Să se evalueze performanța modelului pe setul de testare folosind matricea de confuzie și să se afișeze acuratețea globală.
+	•	Să se calculeze și să se afișeze acuratețea medie pe clase.
