@@ -1,0 +1,13 @@
+Country,GDP_per_Capita,UnemploymentRate,Continent
+USA,64780.0,5.2,NorthAmerica
+Canada,48550.0,6.0,NorthAmerica
+Germany,45880.0,3.1,Europe
+France,42540.0,8.5,Europe
+Japan,40060.0,2.4,Asia
+India,20830.0,8.5,Asia
+China,9789.0,4.0,Asia
+Brazil,9949.0,12.3,SouthAmerica
+Argentina,9950.0,10.6,SouthAmerica
+Australia,54600.0,5.6,Oceania
+SouthAfrica,5904.0,30.1,Africa
+Nigeria,2097.0,33.3,Africa
