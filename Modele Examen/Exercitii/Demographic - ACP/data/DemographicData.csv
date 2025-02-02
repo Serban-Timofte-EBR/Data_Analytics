@@ -1,0 +1,7 @@
+Country,Population,GDP,LifeExpectancy,UrbanizationRate,EducationIndex,HealthIndex,HappinessScore
+Switzerland,8600000,700,84.2,74.5,0.91,0.94,7.6
+Japan,126000000,5050,85.3,91.5,0.92,0.93,7.0
+Mauritius,1271768,11,75.6,60.3,0.78,0.81,6.1
+Germany,83100000,4200,81.2,77.3,0.88,0.89,7.3
+India,1393409038,2880,69.7,35.0,0.62,0.54,4.5
+South Africa,59308690,351,64.1,67.3,0.65,0.61,5.1

@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import seaborn as sb
+import matplotlib.pyplot as plt
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.metrics import confusion_matrix, accuracy_score
 from sklearn.model_selection import train_test_split
@@ -114,3 +116,10 @@ print(Y_test)
 df_X_test["DEPARTAMENT"] = Y_test
 df_X_test["DEPARTAMENT PREDICT"] = Y_pred
 df_X_test.to_csv("data/results/ADLAppliedTest.csv", index=False)
+
+# Vizualizarea distributiilor pe axele discriminante:
+for label in np.unique(Y_train):
+    sb.kdeplot(X_train_lda[Y_train == label, 0], label = label)
+plt.title("Distribuția pe axa discriminantă 1")
+plt.xlabel("Axa discriminantă 1")
+plt.show()
