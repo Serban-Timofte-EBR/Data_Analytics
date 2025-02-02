@@ -1,0 +1,40 @@
+În fișierul Industrie.csv se află informații privind cifra de afaceri pentru activități industriale la nivel de localitate.
+Informațiile sunt următoarele:
+Siruta - codul Siruta al localității;
+Localitate - denumirea localității;
+Alimentara, Textila, Lemnului, ChimicaFarmaceutica, Metalurgica, ConstructiiMasini, CalculatoareElectronica,
+Mobila, Energetica - activitățile industriale cu cifra de afaceri aferentă acestora.
+În fișierul PopulatieLocalitati.csv se află populația pe localități și indicativul județului de care aparține fiecare
+localitate.
+1. Să se salveze în fișierul Cerinta
+_
+1.csv cifra de afaceri pe locuitor pentru fiecare activitate, la nivel de localitate.
+Pentru fiecare localitate se va salva codul Siruta, numele localității și cifra de afaceri pe locuitor pentru fiecare
+activitate. (2 puncte)
+2. Să se calculeze și să se salveze în fișierul Cerinta
+_
+2.csv activitatea industrială dominantă (cu cifra de afaceri cea
+mai mare) la nivel de județ. Pentru fiecare județ se va afișa indicativul de județ, denumirea activității dominante și
+cifra de afaceri corespunzătoare. (1 punct)
+3. Fișierul DataSet_34.csv conține înregistrări pentru 27 de țări europene cu privire la consumul și producția de diverse
+tipuri de carne. Variabilele observate sunt următoarele:
+1. Producția de carne de porc (1.000 tone);
+2. Producția de carne de vită (1.000 tone);
+3. Producția de carne de oaie si capra (1.000 tone);
+4. Producția de carne de pasăre (1.000 tone);
+5. Consumul de carne de porc (kg/persoana/an);
+6. Consumul de carne de vită (kg/persoană/an);
+7. Consumul de carne de oaie și capră (kg/persoană/an);
+8. Consumul de carne de pasăre (kg/persoana/an).
+Pentru a efectua o analiză canonică a corelației, standardizați valorile variabilelor și împărțiți setul de date inițial
+în 2 subseturi de date, după cum urmează:
+- Producția de carne de porc, Producția de carne de vită, Producția de carne de oaie și capră, Producția de
+pasăre – set X;
+- Consumul de carne de porc, Consumul de carne de vită, Consumul de carne de oaie și capră, Consumul de
+pasăre – set Y.
+Salvați cele 2 subseturi de date standardizate în fișierele Xstd.csv, respectiv Ystd.csv. (1 punct)
+4. Determinați și salvați scorurile canonice z și u, corespunzătoare setului de date X și Y, în fișierele Xscore.csv și
+respectiv Yscores.csv. (1 punct)
+5. Determinați și salvați corelațiile factoriale corespunzătoare variabilelor din seturile de date X și Y în fișierele Rxz.csv
+și respectiv Ryu.csv. (1 punct)
+6. Construiți graficul distribuției observațiilor în spațiul rădăcinilor canonice z1, z2 și u1, u2 - grafic biplot. (3 puncte)
