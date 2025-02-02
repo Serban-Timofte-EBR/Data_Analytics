@@ -1,0 +1,11 @@
+GDP,UnemploymentRate,LifeExpectancy,Population,EducationExpenditure,HealthExpenditure,Region
+67000,4.2,78.5,331,5.0,17.8,North America
+45000,5.0,81.2,38,5.5,10.2,North America
+50000,3.6,80.9,83,4.8,11.5,Europe
+42000,7.8,82.3,67,6.0,11.0,Europe
+49000,2.5,84.5,126,4.0,10.1,Asia
+10500,3.8,76.4,1441,3.5,6.2,Asia
+2300,6.1,70.2,1393,3.0,3.8,Asia
+8700,12.5,75.4,213,5.8,9.5,South America
+10100,10.3,76.5,45,5.2,8.5,South America
+55000,4.5,83.4,26,4.5,9.8,Oceania
