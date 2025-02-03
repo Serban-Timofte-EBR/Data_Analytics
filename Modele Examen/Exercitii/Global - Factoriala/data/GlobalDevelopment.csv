@@ -1,0 +1,8 @@
+Country,GDP_per_Capita,HealthcareExpenditure_per_Capita,InfantMortalityRate,LifeExpectancy,TertiaryEducation,EducationExpenditure_percent_GDP,RuralPopulation,ResearchDevelopmentExpenditure
+USA,65000,12000,5.2,79.8,42.0,5.3,18.0,500
+Germany,55000,8000,3.8,81.2,35.5,4.9,20.0,400
+Japan,40000,7500,2.5,83.6,50.0,4.5,10.0,350
+India,2200,250,28.0,68.4,18.0,3.0,65.0,50
+Brazil,12000,850,13.0,75.3,22.0,3.5,23.0,70
+South Africa,8000,500,25.0,63.5,15.0,2.8,35.0,30
+Australia,45000,9000,3.5,82.8,40.0,4.8,15.0,380
