@@ -1,0 +1,13 @@
+EmployeeID,Age,YearsExperience,EducationLevel,Department,PerformanceRating
+1,25,3,2,IT,3
+2,35,10,3,Finance,4
+3,45,15,4,HR,2
+4,29,4,2,Marketing,3
+5,31,5,3,IT,4
+6,40,12,4,Finance,3
+7,50,20,1,HR,1
+8,27,2,2,Marketing,2
+9,34,8,3,IT,3
+10,38,10,4,Finance,4
+11,48,18,1,HR,2
+12,30,6,3,Marketing,3
