@@ -1,0 +1,8 @@
+Country,PrimaryEnrollment,SecondaryEnrollment,TertiaryEnrollment,LifeExpectancy,InfantMortalityRate,HealthcareExpenditure,PhysiciansPer1000
+USA,95,88,42,79,5.8,10000,2.6
+Germany,93,87,35,81,3.1,6500,4.3
+Japan,94,90,50,84,1.6,4800,2.4
+India,89,67,18,69,28.3,150,0.9
+Brazil,92,73,22,76,12.4,850,2.2
+South Africa,87,62,15,64,33.2,500,0.8
+Australia,94,89,40,82,3.5,7200,3.5
