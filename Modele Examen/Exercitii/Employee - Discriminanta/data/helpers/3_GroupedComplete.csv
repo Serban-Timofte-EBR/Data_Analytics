@@ -1,0 +1,5 @@
+Region,Age,YearsExperience,EducationLevel,GDP_per_Capita,UnemploymentRate,Count
+East,65,13,6,94000,7.0,2
+North,85,11,8,150000,12.0,3
+South,133,43,6,135000,18.0,3
+West,105,45,2,104000,10.0,2

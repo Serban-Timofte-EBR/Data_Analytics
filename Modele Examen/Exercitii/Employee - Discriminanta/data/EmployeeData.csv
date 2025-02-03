@@ -1,0 +1,11 @@
+ID,Age,YearsExperience,EducationLevel,Attrition,Region
+1,25,2,3,No,North
+2,45,15,2,Yes,South
+3,30,5,3,No,East
+4,50,20,1,Yes,West
+5,28,3,2,No,North
+6,40,10,2,No,South
+7,35,8,3,Yes,East
+8,55,25,1,No,West
+9,32,6,3,No,North
+10,48,18,2,Yes,South
