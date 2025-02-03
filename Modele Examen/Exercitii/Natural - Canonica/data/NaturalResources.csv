@@ -1,0 +1,8 @@
+Country,OilProduction,GasProduction,ElectricityProduction,CoalProduction,OilConsumption,GasConsumption,ElectricityConsumption,CoalConsumption,Population,Continent
+USA,1000,800,500,300,900,700,400,200,330000000,North America
+China,1200,1000,700,600,1100,950,650,580,1400000000,Asia
+Germany,300,250,200,100,280,240,180,90,83000000,Europe
+India,500,400,350,200,480,390,340,190,1380000000,Asia
+Brazil,200,150,100,50,180,140,90,40,210000000,South America
+South Africa,50,40,30,20,48,39,28,18,60000000,Africa
+Australia,100,90,60,30,98,88,55,25,25000000,Oceania
