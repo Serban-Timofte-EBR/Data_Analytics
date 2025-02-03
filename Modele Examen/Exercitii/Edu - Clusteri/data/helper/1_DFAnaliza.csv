@@ -1,0 +1,21 @@
+Country,GDP_per_Capita,EducationExpenditure_per_Capita,HealthcareExpenditure,InfantMortalityRate
+USA,65000,2000,10000,5.8
+Germany,50000,1500,6500,3.1
+Japan,45000,1000,4800,1.6
+India,2100,200,150,28.3
+Brazil,9000,300,850,12.4
+South Africa,6000,150,500,33.2
+Australia,55000,1800,7200,3.5
+China,10000,400,3000,7.5
+Russia,12000,500,2500,9.0
+Canada,58000,1900,9500,4.0
+France,45000,1400,7200,3.2
+Italy,42000,1200,6500,3.5
+UK,43000,1500,8000,3.8
+Mexico,9500,300,600,14.5
+Argentina,8500,250,800,11.0
+Nigeria,1500,100,120,72.0
+Egypt,3000,150,200,40.0
+South Korea,42000,1200,7000,2.8
+Turkey,10500,300,750,15.0
+Indonesia,4200,200,500,25.0

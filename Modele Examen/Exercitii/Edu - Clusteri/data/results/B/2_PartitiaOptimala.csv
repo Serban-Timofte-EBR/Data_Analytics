@@ -1,0 +1,21 @@
+Country,GDP_per_Capita,EducationExpenditure_per_Capita,HealthcareExpenditure,InfantMortalityRate,Cluster Optimal
+USA,65000,2000,10000,5.8,1
+Germany,50000,1500,6500,3.1,7
+Japan,45000,1000,4800,1.6,8
+India,2100,200,150,28.3,9
+Brazil,9000,300,850,12.4,16
+South Africa,6000,150,500,33.2,11
+Australia,55000,1800,7200,3.5,3
+China,10000,400,3000,7.5,13
+Russia,12000,500,2500,9.0,14
+Canada,58000,1900,9500,4.0,2
+France,45000,1400,7200,3.2,5
+Italy,42000,1200,6500,3.5,4
+UK,43000,1500,8000,3.8,6
+Mexico,9500,300,600,14.5,15
+Argentina,8500,250,800,11.0,16
+Nigeria,1500,100,120,72.0,17
+Egypt,3000,150,200,40.0,12
+South Korea,42000,1200,7000,2.8,4
+Turkey,10500,300,750,15.0,15
+Indonesia,4200,200,500,25.0,10
