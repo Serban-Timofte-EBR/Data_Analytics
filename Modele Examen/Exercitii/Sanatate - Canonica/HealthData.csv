@@ -1,0 +1,11 @@
+Country,HealthcareExpenditure,LifeExpectancy,InfantMortalityRate,Population
+USA,10000,79,5.8,331002651
+Germany,6500,81,3.1,83783942
+Japan,4800,84,1.6,126476461
+India,150,69,28.3,1380004385
+Brazil,850,76,12.4,212559417
+South Africa,,64,33.2,59308690
+Australia,7200,82,3.5,25499884
+Canada,7500,81,4.1,
+China,400,76,9.1,1439323776
+Russia,1200,72,11.3,145912025
