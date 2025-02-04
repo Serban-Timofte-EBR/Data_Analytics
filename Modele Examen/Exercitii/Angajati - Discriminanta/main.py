@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sb
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.metrics import confusion_matrix, accuracy_score
+from sklearn.metrics import confusion_matrix, accuracy_score, silhouette_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
@@ -60,6 +60,9 @@ df_XTestLDA.to_csv("data/results/B/XTestLDA.csv", index=False)
 # Evaluarea model
 Y_pred = modelADL.predict(X_test)
 
+variance = modelADL.explained_variance_ratio_
+print("Variatia: ", variance)
+
 matrice_confuzie = confusion_matrix(Y_test, Y_pred)
 df_matrice = pd.DataFrame(
     matrice_confuzie,
@@ -79,6 +82,9 @@ print("Acuratetea medie: ", acurateteaMedie)
 Y_apply = modelADL.predict(X_apply)
 df_apply_clean["Departament"] = Y_apply
 df_apply_clean.to_csv("data/results/B/ApplyPredicted.csv")
+
+silhouetteScore = silhouette_score(X_test_lda, Y_test)
+print("Scor Silhouette: ", silhouetteScore)
 
 for label in np.unique(Y_train):
     sb.kdeplot(X_train_lda[Y_train == label, 0], label = label)
